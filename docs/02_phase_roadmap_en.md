@@ -1,261 +1,295 @@
-Development Roadmap: 4-Phase Detailed Plan
-Overview
+# Development Roadmap: 4-Phase Detailed Plan
+
+## Overview
+
 The Sal-Meter open competition is organized in 4 distinct phases spanning from early 2026 through late 2027 and beyond.
 
-Phase 0: Preparation & Documentation Finalization (January–March 2026)
-Goal: Finalize all rules and technical standards
+---
 
-Key Activties
-Final review iand approval of 4 mandatory documents
+## Phase 0: Preparation & Documentation Finalization (January–March 2026)
 
-Technical specification finalization
+**Goal**: Finalize all rules and technical standards
 
-Competition infrastructure setup (application website, evaluation criteria)
+### Key Activities
 
-Outreach and participant guidance
+1. Final review and approval of 4 mandatory documents
+2. Technical specification finalization
+3. Competition infrastructure setup (application website, evaluation criteria)
+4. Outreach and participant guidance
+5. Establish collaboration with international partner institutions
 
-Establish collaboration with international partner institutions
+### Expected Outcomes
 
-Expected Outcomes
-All documents registered with DOI
+- All documents registered with DOI
+- Competition platform ready for submissions
+- Review committee assembled
 
-Competition platform ready for submissions
+---
 
-Review committee assembled
+## Phase 1: Team Recruitment & Selection (April–June 2026)
 
-Phase 1: Team Recruitment & Selection (April–June 2026)
-Goal: Secure the most qualified teams
+**Goal**: Secure the most qualified teams
 
-Organizational Roles
-Track A/B Recruitment
-Open application period (3 months)
+### Organizational Roles
 
-Technical evaluation of submissions (capability, experience, team composition)
+#### Track A/B Recruitment
 
-Interviews with top-ranked teams
+- Open application period (3 months)
+- Technical evaluation of submissions (capability, experience, team composition)
+- Interviews with top-ranked teams
+- Final selection (Track A: 2–3 teams, Track B: 5–10 teams)
+- Technical briefing provided to selected teams
 
-Final selection (Track A: 2–3 teams, Track B: 5–10 teams)
+#### Track C Commencement
 
-Technical briefing provided to selected teams
+- Track C participants begin sharing initial prototypes
+- GitHub Discussions activated
+- Weekly open seminars begin
 
-Track C Commencement
-Track C participants begin sharing initial prototypes
+### Expected Outcomes
 
-GitHub Discussions activated
+- **Track A**: 3 teams selected ($900K distributed)
+- **Track B**: 7 teams selected ($500K distributed)
+- **Track C**: 20+ teams/individuals actively participating
 
-Weekly open seminars begin
+---
 
-Expected Outcomes
-Track A: 3 teams selected ($900K distributed)
+## Phase 2: Development Stage (July 2026–March 2027)
 
-Track B: 7 teams selected ($500K distributed)
+**Duration**: 9 months
 
-Track C: 20+ teams/individuals actively participating
+**Goal**: Complete functional prototypes
 
-Phase 2: Development Stage (July 2026–March 2027)
-Duration: 9 months
-Goal: Complete functional prototypes
+### Track A Team Progress
 
-Track A Team Progress
-Months 1–2 (July–August): Initial Design
-Key Activities:
+#### Months 1–2 (July–August): Initial Design
 
-Sensor material selection
+**Key Activities:**
 
-PCB layout draft
+- Sensor material selection
+- PCB layout draft
+- Software architecture design
+- Prototype component procurement
 
-Software architecture design
+**Progress Reporting**: Monthly
 
-Prototype component procurement
+---
 
-Progress Reporting: Monthly
+#### Months 3–5 (September–November): Sensor Development
 
-Months 3–5 (September–November): Sensor Development
-Key Activities:
+**Key Activities:**
 
-Aptamer–iodine reaction optimization
+- Aptamer–iodine reaction optimization
+- Signal processing algorithm development
+- Initial testing (team self-testing)
 
-Signal processing algorithm development
+**Progress Reporting**: Biweekly
 
-Initial testing (team self-testing)
+---
 
-Progress Reporting: Biweekly
+#### Months 6–7 (December 2026–January 2027): Integration & Testing
 
-Months 6–7 (December 2026–January 2027): Integration & Testing
-Key Activities:
+**Key Activities:**
 
-Sensor + hardware + software integration
+- Sensor + hardware + software integration
+- Self-validation testing (team of ~20 people)
+- Bug fixes and refinements
 
-Self-validation testing (team of ~20 people)
+**Progress Reporting**: Weekly
 
-Bug fixes and refinements
+---
 
-Progress Reporting: Weekly
+#### Months 8–9 (February–March 2027): Performance Optimization
 
-Months 8–9 (February–March 2027): Performance Optimization
-Key Activities:
+**Key Activities:**
 
-Accuracy improvement (target: sensitivity ≥80%, specificity ≥85%)
+- Accuracy improvement (target: sensitivity ≥80%, specificity ≥85%)
+- Reliability enhancement
+- Final adjustments
 
-Reliability enhancement
+**Progress Reporting**: Weekly
 
-Final adjustments
+---
 
-Progress Reporting: Weekly
+### Track B Team Progress
 
-Track B Team Progress
-Month	Activity
-1–3	Component definition and foundational development
-4–6	Core functionality implementation
-7–9	Performance optimization and documentation
-10–12	Final validation
-Track C Community
-Weekly technical seminars held
+| Month | Activity |
+|-------|----------|
+| 1–3 | Component definition and foundational development |
+| 4–6 | Core functionality implementation |
+| 7–9 | Performance optimization and documentation |
+| 10–12 | Final validation |
 
-Continuous code uploads to GitHub
+---
 
-Blog posts, videos, tutorials published
+### Track C Community
 
-Initial manuscript submissions to academic journals
+- Weekly technical seminars held
+- Continuous code uploads to GitHub
+- Blog posts, videos, tutorials published
+- Initial manuscript submissions to academic journals
 
-Phase 3: Validation Stage (April–September 2027)
-Duration: 6 months
-Goal: Complete independent validation
+---
 
-CRO (Contract Research Organization) Role
-Step 1: Participant Recruitment
-Total Participants: 50
+## Phase 3: Validation Stage (April–September 2027)
 
-Participant Distribution:
+**Duration**: 6 months
 
-25 participants: Expected high VCE (high stress/activation state)
+**Goal**: Complete independent validation
 
-25 participants: Expected low VCE (relaxed state)
+### CRO (Contract Research Organization) Role
 
-Step 2: Baseline Assessment
-Assessment Components:
+#### Step 1: Participant Recruitment
 
-Basic health screening
+**Total Participants**: 50
 
-Mental health questionnaire
+**Participant Distribution:**
 
-Baseline measurements
+- 25 participants: Expected high VCE (high stress/activation state)
+- 25 participants: Expected low VCE (relaxed state)
 
-Step 3: Measurement Protocol
-Protocol Overview:
+---
 
-Minimum 3 measurements per participant (in varying states)
+#### Step 2: Baseline Assessment
 
-Simultaneous evaluation using standard reference tools (comparison)
+**Assessment Components:**
 
-Blinded assessment (measurer unaware of participant's state)
+- Basic health screening
+- Mental health questionnaire
+- Baseline measurements
 
-Step 4: Data Analysis
-Sensitivity Validation
+---
+
+#### Step 3: Measurement Protocol
+
+**Protocol Overview:**
+
+- Minimum 3 measurements per participant (in varying states)
+- Simultaneous evaluation using standard reference tools (comparison)
+- Blinded assessment (measurer unaware of participant's state)
+
+---
+
+#### Step 4: Data Analysis
+
+##### Sensitivity Validation
+
 Can the device correctly identify ≥20 of the 25 participants known to be in high-stress state?
 
-Target: ≥80%
+- **Target**: ≥80%
 
-Specificity Validation
+##### Specificity Validation
+
 Can the device correctly identify ≥21 of the 25 participants in relaxed state as non-stressed?
 
-Target: ≥85%
+- **Target**: ≥85%
 
-Additional Statistical Validation
-Confidence intervals
+##### Additional Statistical Validation
 
-p-value calculations
+- Confidence intervals
+- p-value calculations
+- Reproducibility assessment
 
-Reproducibility assessment
+---
 
-Step 5: Report Writing
-Report Components:
+#### Step 5: Report Writing
 
-Methodology fully disclosed
+**Report Components:**
 
-All data made public
+- Methodology fully disclosed
+- All data made public
+- Negative findings included
 
-Negative findings included
+---
 
-Results Dissemination
-All data uploaded to GitHub
+### Results Dissemination
 
-Manuscript registered on OSF (Open Science Framework)
+- All data uploaded to GitHub
+- Manuscript registered on OSF (Open Science Framework)
+- Submitted to independent peer-reviewed journal
 
-Submitted to independent peer-reviewed journal
+---
 
-Phase 4: Regulatory Pathway & Multi-Site Validation (October 2027+)
-Goal: Achieve international recognition and regulatory approval
+## Phase 4: Regulatory Pathway & Multi-Site Validation (October 2027+)
 
-Key Activities
-1. Regulatory Consultation
-Regional Pathways:
+**Goal**: Achieve international recognition and regulatory approval
 
-FDA (USA): Class II or III medical device pathway
+### Key Activities
 
-EMA (European Union): CE marking application
+#### 1. Regulatory Consultation
 
-MFDS (South Korea): Medical device approval
+**Regional Pathways:**
 
-PMDA (Japan): Japanese regulatory pathway
+- **FDA (USA)**: Class II or III medical device pathway
+- **EMA (European Union)**: CE marking application
+- **MFDS (South Korea)**: Medical device approval
+- **PMDA (Japan)**: Japanese regulatory pathway
 
-2. Multi-Site Validation
-Validation Scope:
+---
 
-Simultaneous validation at 3–5 independent institutions
+#### 2. Multi-Site Validation
 
-Expansion to diverse demographics (ethnicity, age, gender)
+**Validation Scope:**
 
-Multi-regional data collection
+- Simultaneous validation at 3–5 independent institutions
+- Expansion to diverse demographics (ethnicity, age, gender)
+- Multi-regional data collection
 
-3. Clinical Trial Planning
-Trial Phases:
+---
 
-Phase I: Safety testing (20–50 participants, 3–6 months)
+#### 3. Clinical Trial Planning
 
-Phase II: Efficacy testing (100–300 participants, 6–12 months)
+**Trial Phases:**
 
-Phase III: Large-scale efficacy validation (1,000+ participants, 1–2 years)
+- **Phase I**: Safety testing (20–50 participants, 3–6 months)
+- **Phase II**: Efficacy testing (100–300 participants, 6–12 months)
+- **Phase III**: Large-scale efficacy validation (1,000+ participants, 1–2 years)
+- **Phase IV**: Post-market surveillance (ongoing)
 
-Phase IV: Post-market surveillance (ongoing)
+---
 
-4. Regulatory Submission
-Required Documentation:
+#### 4. Regulatory Submission
 
-Phase I/II/III data dossier
+**Required Documentation:**
 
-Safety report
+- Phase I/II/III data dossier
+- Safety report
+- Technical documentation
+- Chemistry, Manufacturing, and Controls (CMC) documentation
 
-Technical documentation
+---
 
-Chemistry, Manufacturing, and Controls (CMC) documentation
+### Expected Outcomes
 
-Expected Outcomes
-Regional regulatory approvals (2027–2031)
+- Regional regulatory approvals (2027–2031)
+- Official medical device certification
+- Clinical deployment authorization
 
-Official medical device certification
+---
 
-Clinical deployment authorization
+## Overall Timeline Summary
 
-Overall Timeline Summary
-Date	Phase	Key Milestone
-January 2026	Phase 0	Preparation & documentation finalized
-April 2026	Phase 1	Team recruitment begins
-July 2026	Phase 2	Development begins (9-month sprint)
-April 2027	Phase 3	Independent validation begins
-October 2027	Phase 4	Regulatory pathway & multi-site studies
-References
-Sal-Meter Open Competition – Official Guide
+| Date | Phase | Key Milestone |
+|------|-------|--------------|
+| **January 2026** | Phase 0 | Preparation & documentation finalized |
+| **April 2026** | Phase 1 | Team recruitment begins |
+| **July 2026** | Phase 2 | Development begins (9-month sprint) |
+| **April 2027** | Phase 3 | Independent validation begins |
+| **October 2027** | Phase 4 | Regulatory pathway & multi-site studies |
 
-Technical Details: How the Sal-Meter Works
+---
 
-Team Composition Guide
+## References
 
-CAIS Architecture v1.0: https://doi.org/10.5281/zenodo.18160387
+- [Sal-Meter Open Competition – Official Guide](../README.md)
+- [Technical Details: How the Sal-Meter Works](./01_technical_details.md)
+- [Team Composition Guide](./03_team_composition.md)
+- CAIS Architecture v1.0: https://doi.org/10.5281/zenodo.18160387
+- CAIS Prototype Roadmap v1.0: https://doi.org/10.5281/zenodo.18161872
 
-CAIS Prototype Roadmap v1.0: https://doi.org/10.5281/zenodo.18161872
+---
 
-License: CC BY-SA 4.0
-Last Updated: February 3, 2026
-License: CC BY-SA 4.0
-Last Updated: February 3, 2026
+**License:** CC BY-SA 4.0
+
+**Last Updated:** February 3, 2026
+

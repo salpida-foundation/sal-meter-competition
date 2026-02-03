@@ -1,4 +1,5 @@
- **Authority Notice:** Canonical definitions and governance for this competition are fixed exclusively in [DOI-registered records](https://github.com/salpida-foundation/salpida-canonical). This repository is a non-authoritative index. See [NOTICE.md](./NOTICE.md) for details.
+> ⚠️ **Authority Notice:** Canonical definitions and governance for this competition are fixed **exclusively** in [DOI-registered records](https://github.com/salpida-foundation/salpida-canonical). This repository is a **non-authoritative index**. For details, see [NOTICE.md](./NOTICE.md).
+
 
 ---
 

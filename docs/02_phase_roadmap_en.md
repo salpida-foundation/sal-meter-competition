@@ -5,8 +5,8 @@ The Sal-Meter open competition is organized in 4 distinct phases spanning from e
 Phase 0: Preparation & Documentation Finalization (January–March 2026)
 Goal: Finalize all rules and technical standards
 
-Key Activities
-Final review and approval of 4 mandatory documents
+Key Activties
+Final review iand approval of 4 mandatory documents
 
 Technical specification finalization
 

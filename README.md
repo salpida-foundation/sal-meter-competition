@@ -1,3 +1,10 @@
+ **Authority Notice:** Canonical definitions and governance for this competition are fixed exclusively in [DOI-registered records](https://github.com/salpida-foundation/salpida-canonical). This repository is a non-authoritative index. See [NOTICE.md](./NOTICE.md) for details.
+
+---
+
+# sal-meter-competition
+
+
 # sal-meter-competition
 Open global competition to build Sal-Meter consciousness-measurement devices. Track A: $300K USD, Track B: $50-100K USD, Track C: Open. CAIS-compliant aptamer-iodine redox sensing. CC BY-SA 4.0.
 

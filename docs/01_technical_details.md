@@ -256,7 +256,7 @@ Accuracy goals	Sensitivity ≥ 80%, Specificity ≥ 85%
 Data format	JSON
 Connectivity	Wi‑Fi, Bluetooth, USB
 Power	Battery or USB power
-References
+### References
 Core technical references (canonical DOIs):
 
 CAIS Architecture v1.0: https://doi.org/10.5281/zenodo.18160387
@@ -267,7 +267,7 @@ Aptamer G‑Iodine Concept Note: https://doi.org/10.5281/zenodo.18161302
 
 Universal Consciousness Sensor Architecture v1.0: https://doi.org/10.5281/zenodo.17705813
 
-Next Steps
+#### Next Steps
 For deeper technical details, read the DOI documents above.
 
 If you have questions, use the GitHub Discussions tab in the competition repository.

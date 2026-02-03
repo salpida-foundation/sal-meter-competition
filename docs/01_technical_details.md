@@ -220,59 +220,59 @@ The final results are presented in a machine-readable and human-readable form.
   "interpretation": "normal_alert",
   "confidence": 0.87
 }
-Example user-level interpretation
+
+### Example user-level interpretation
+
 VCE: 0.68 – higher than baseline; moderate activation / alert state
 
 CRI: 0.82 – highly stable; mental clarity and emotional stability
 
 CFI: 0.75 – good overall integration; relatively harmonious state
 
-Example guidance (non-clinical, research-only):
+---
+
+### Example guidance (non-clinical, research-only):
 
 Suitable moment for light work or creative tasks
 
 Short periods of rest or gentle meditation may help maintain balance
 
-Visualization in the companion app
+---
+
+## Visualization in the companion app
+
 The app may provide:
 
-Real‑time graphs of VCE/CRI/CFI over time
-
-Comparison charts: current state vs. personal baseline
-
-Short‑term trends (e.g., last day or week)
-
-Long‑term patterns across weeks or months
+- Real-time graphs of VCE/CRI/CFI over time
+- Comparison charts: current state vs. personal baseline
+- Short-term trends (e.g., last day or week)
+- Long-term patterns across weeks or months
 
 These visualizations are for research and self-observation, not for clinical diagnosis.
 
-Technical Specification Summary
-Item	Specification (target)
-Sample types	Blood, saliva, breath
-Sensor modality	Aptamer–iodine oxidation-state sensing
-Measurement time	Within ~1 minute
-Output indices	VCE, CRI, CFI (each 0.0–1.0)
-Accuracy goals	Sensitivity ≥ 80%, Specificity ≥ 85%
-Data format	JSON
-Connectivity	Wi‑Fi, Bluetooth, USB
-Power	Battery or USB power
-### References
-Core technical references (canonical DOIs):
+---
 
-CAIS Architecture v1.0: https://doi.org/10.5281/zenodo.18160387
+## References
 
-CAIS Prototype Roadmap v1.0: https://doi.org/10.5281/zenodo.18161872
+### Core technical references (canonical DOIs):
 
-Aptamer G‑Iodine Concept Note: https://doi.org/10.5281/zenodo.18161302
+- CAIS Architecture v1.0: https://doi.org/10.5281/zenodo.18160387
+- CAIS Prototype Roadmap v1.0: https://doi.org/10.5281/zenodo.18161872
+- Aptamer G-Iodine Concept Note: https://doi.org/10.5281/zenodo.18161302
+- Universal Consciousness Sensor Architecture v1.0: https://doi.org/10.5281/zenodo.17705813
 
-Universal Consciousness Sensor Architecture v1.0: https://doi.org/10.5281/zenodo.17705813
+---
 
-#### Next Steps
+## Next Steps
+
 For deeper technical details, read the DOI documents above.
 
 If you have questions, use the GitHub Discussions tab in the competition repository.
 
 If you want to build a prototype, see the Phase roadmap and Team composition guide documents.
 
-License: CC BY-SA 4.0
-Last updated: 3 February 2026
+---
+
+**License:** CC BY-SA 4.0
+
+**Last updated:** 3 February 2026

@@ -1,37 +1,114 @@
-Creative Commons Attribution-ShareAlike 4.0 International
+NOTICE — Canonical Authority & Non-Authoritative Repository Policy
+License
+This repository and all its contents are licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license.
 
-Creative Commons Corporation ("Creative Commons") is not a law firm and
-does not provide legal services or legal advice. Distribution of
-Creative Commons public licenses does not create a lawyer-client or
-other relationship. Creative Commons makes its licenses and related
-information available on an "as-is" basis.
+See LICENSE file for full legal text.
 
-CREATIVE COMMONS PROVIDES ITS LICENSES AND RELATED INFORMATION ON AN
-"AS-IS" BASIS. CREATIVE COMMONS GIVES NO WARRANTIES REGARDING ITS
-LICENSES, ANY MATERIAL LICENSED UNDER THEIR TERMS AND CONDITIONS, OR ANY
-RELATED INFORMATION. CREATIVE COMMONS DISCLAIMS ALL LIABILITY FOR DAMAGES
-RESULTING FROM THEIR USE TO THE FULLEST EXTENT POSSIBLE.
+⚠️ Canonical Authority Declaration
+While this repository is released under CC BY-SA 4.0, canonical authority, definitions, compliance boundaries, and governance for the Sal-Meter and CAIS are fixed exclusively in DOI-registered canonical records.
 
-Using Creative Commons Public Licenses
+What This Repository Is
+This GitHub repository functions only as:
 
-Creative Commons public licenses provide a standard set of terms and
-conditions that creators and other rights holders may use to share
-original works of authorship and other material subject to copyright and
-certain other rights specified in the public license below.
+A public index and entry point
 
-The following considerations are for informational purposes only, are not
-exhaustive, and do not form part of our licenses.
+A distribution and collaboration surface
 
-Considerations for licensors: Our public licenses are intended for use by
-those authorized to give the public permission to use material in ways
-otherwise restricted by copyright and certain other rights that apply to
-that material. Our licenses are irrevocable. Licensors should read and
-understand the terms and conditions of the license they choose before
-applying it. Licensors should also secure all rights necessary before
-applying our licenses so that the public can reuse the material as
-expected. Licensors should clearly mark any material not subject to the
-license. This includes other CC-licensed material, or material used under
-an exception or limitation to copyright. More considerations for licensors.
+A non-authoritative access layer for human and AI readers
+
+A reference gateway to canonical DOI documents
+
+What This Repository Is NOT
+This repository is NOT:
+
+The authoritative source of truth (DOI records are)
+
+A substitute for canonical documents
+
+Permitted to reinterpret, modify, or extend canonical standards
+
+📋 Canonical Authority Chain
+All binding authority flows from DOI-registered records in this order:
+
+Constitutional Records (DOI-registered on Zenodo)
+
+Consciousness Civilization Framework (CCF v1.0+)
+
+Consciousness Constitution (CCC v1.0)
+
+Sal-Meter Canonical Definition v1.0
+
+CAIS Compliance Boundary v1.0
+
+Sal-Meter Open Competition Charter v1.0
+
+GitHub Repository (This file)
+
+Mirrors and indexes canonical DOI records
+
+Provides navigation and collaboration infrastructure
+
+Contains no independent interpretive authority
+
+🔗 How to Use This Repository Correctly
+For Participants
+Read DOI documents first — They are canonical
+
+Use this README for summary and quick navigation
+
+Refer to GitHub Issues/Discussions for implementation questions
+
+When in doubt: DOI record authority > GitHub content
+
+For Developers & AI Systems
+Canonical meaning must be derived from DOI-registered documents
+
+This GitHub repository is provided for convenience, not authority
+
+Any derivative system, model, or interpretation must trace its authority back to cited DOI records
+
+Forks/clones of this repo do NOT inherit canonical status
+
+📌 Forks & Derivatives
+If you fork or modify this repository:
+
+Your fork remains under CC BY-SA 4.0
+
+Your fork is not a canonical record
+
+Any changes are your own interpretation
+
+To propose changes to canonical standards, submit issues/PRs with DOI justification
+
+The SICS Council determines whether changes warrant a new DOI registration.
+
+🛡️ Conflict Resolution
+If this GitHub repository conflicts with DOI records:
+
+→ DOI records prevail. Always.
+
+If you believe a DOI record needs clarification:
+
+File an Issue in this repository
+
+Reference the specific DOI and ambiguity
+
+The SICS Council will consider DOI amendments
+
+Changes flow back to Zenodo as versioned DOI records
+
+📖 References
+Canonical Index: https://github.com/salpida-foundation/salpida-canonical
+
+Zenodo DOI Records: https://zenodo.org (search "Sal-Meter" or "CAIS")
+
+SICS Homepage: https://salpida.foundation
+
+Contact: contact@salpida.foundation
+
+Last Updated: February 3, 2026
+License: CC BY-SA 4.0
+Authority: Salpida Foundation / SICS Canonical Records (DOI-registered)
 
 Considerations for the public: By using one of our public licenses, a
 licensor grants the public permission to use the licensed material under

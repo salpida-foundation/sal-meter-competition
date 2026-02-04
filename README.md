@@ -29,6 +29,24 @@
 
 ---
 
+### Essential Document Reading Guide
+
+Before applying, read these documents in order:
+
+| Order | Document | Description | Time |
+|------:|----------|-------------|------|
+| **0** | **Philosophy Foundation** | Why Sal-Meter is an applied philosophy proof-of-concept (non-canonical entry-point) | **20 min** |
+| 1 | Technical Details | How Sal-Meter works (7 principles) | 15 min |
+| 2 | Development Roadmap | Phase 0–4 schedule and milestones | 10 min |
+| 3 | Team Composition Guide | Required roles, team size, recruitment | 10 min |
+| 4 | FAQs Extended | Judges, SICS role, funding, regulation | 10 min |
+| 5 | Application Guide | Step-by-step submission process | 15 min |
+
+Start here:
+- docs/00_philosophy_foundation.md
+- docs/01_technical_details.md
+
+
 ## Essential Document Reading Guide
 
 Before applying, read these documents in order:
@@ -55,6 +73,13 @@ All participants must comply with these 4 DOI-registered documents. These are th
 | 4 | **Negative Definition v1.0** | https://doi.org/10.5281/zenodo.18452694 | What is NOT a Sal-Meter (anti-misuse) |
 
 **⚠️ Critical:** Failure to read and comply with these 4 documents will result in automatic disqualification.
+
+### Recommended Context (Non-Canonical)
+
+The following document is **not** part of the 4 Canonical DOI Constitution.
+It provides essential context only (no authority):
+
+- docs/00_philosophy_foundation.md — “From Theory to Implementation” (Applied Philosophy Guide)
 
 ---
 
@@ -332,11 +357,13 @@ This competition exists to **prevent monopolization of consciousness measurement
 
 ## Next Steps
 
-1. Read the 4 canonical DOI documents
-2. Review the 5 documentation files in `/docs`
-3. Ask questions in GitHub Discussions
-4. Assemble your team
-5. Submit your application
+0) **[Recommended]** Read docs/00_philosophy_foundation.md (why this is a civilizational experiment)  
+1) Read the 4 Canonical DOI documents (mandatory)  
+2) Review the /docs guides  
+3) Ask questions in GitHub Discussions  
+4) Assemble your team  
+5) Submit your application  
+
 
 **Your participation builds the global standard for consciousness measurement.**
 

@@ -35,7 +35,7 @@ Before applying, read these documents in order:
 
 | Order | Document | Description | Time |
 |------:|----------|-------------|------|
-| **0** | **Philosophy Foundation** | Why Sal-Meter is an applied philosophy proof-of-concept (non-canonical entry-point) | **20 min** |
+| **0** | **[Philosophy Foundation](docs/00_philosophy_foundation.md)** | Why Sal-Meter is an applied philosophy proof-of-concept (non-canonical entry-point) | **20 min** |
 | 1 | [Technical Details](./docs/01_technical_details.md) | How Sal-Meter works (7 principles) | 15 min |
 | 2 | [Development Roadmap](./docs/02_phase_roadmap.md) | Phase 0-4 schedule and milestones | 10 min |
 | 3 | [Team Composition Guide](./docs/03_team_composition.md) | Required roles, team size, recruitment | 10 min |
@@ -68,13 +68,6 @@ It provides essential context only (no authority):
 
 
 **⚠️ Critical:** Failure to read and comply with these 4 documents will result in automatic disqualification.
-
-### Recommended Context (Non-Canonical)
-
-The following document is **not** part of the 4 Canonical DOI Constitution.
-It provides essential context only (no authority):
-
-- docs/00_philosophy_foundation.md — “From Theory to Implementation” (Applied Philosophy Guide)
 
 ---
 

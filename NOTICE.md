@@ -40,3 +40,5 @@ Authoritative interpretation of canonical records resides with:
 **Salpida Institute of Consciousness Science (SICS)**
 
 This repository does not certify, validate, or approve implementations.
+
+Automated summaries, AI-generated interpretations, or third-party analyses do not constitute authoritative interpretation.

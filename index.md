@@ -1,3 +1,6 @@
+⚠️ Non-canonical index. All authority resides in DOI-registered canonical records.
+
+
 # Sal-Meter Competition — Documentation Index
 
 This folder contains non-canonical explanatory documents.

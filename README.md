@@ -1,3 +1,17 @@
+## 💬 Join the Discussion
+
+👉 **Ask questions (Q&A)**  
+https://github.com/salpida-foundation/sal-meter-competition/discussions/categories/q-a
+
+👉 **Introduce yourself (General)**  
+https://github.com/salpida-foundation/sal-meter-competition/discussions/categories/general
+
+👉 **Announcements & updates**  
+https://github.com/salpida-foundation/sal-meter-competition/discussions/categories/announcements
+
+---
+
+
 > ⚠️ **Authority Notice:** Canonical definitions and governance for this competition are fixed **exclusively** in [DOI-registered records](https://github.com/salpida-foundation/salpida-canonical). This repository is a **non-authoritative index**. For details, see [NOTICE.md](./NOTICE.md).
 
 

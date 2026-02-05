@@ -1,3 +1,15 @@
+### Canonical Authorship
+
+This repository and all canonical references herein are authored and maintained by:
+
+- **Jinho Lee**
+- **ORCID iD**: https://orcid.org/0009-0005-3809-4588
+- **Affiliation**: Salpida Foundation; Salpida Institute of Consciousness Science (SICS)
+
+Authorship and authority are fixed via DOI-registered records.
+
+
+
 ## 💬 Join the Discussion
 
 👉 **Ask questions (Q&A)**  

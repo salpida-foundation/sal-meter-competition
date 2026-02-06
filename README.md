@@ -5,8 +5,8 @@ is worth internal discussion, please start here:
 
 **[PI Quick Decision Pack — Go / No-Go Brief](docs/PI_Quick_Decision_Pack.md)**
 
-This document is designed to be sufficient for a PI-level go/no-go decision within
-30 minutes, without additional preparation or document synthesis.
+This document can be forwarded directly to students or collaborators
+for preliminary internal discussion, without requiring PI-led briefing.
 
 ### Canonical Authorship
 

@@ -1,3 +1,13 @@
+## PI Quick Decision Pack (2 pages)
+
+If you are a principal investigator or lab lead considering whether this competition
+is worth internal discussion, please start here:
+
+**[PI Quick Decision Pack — Go / No-Go Brief](docs/PI_Quick_Decision_Pack.md)**
+
+This document is designed to be sufficient for a PI-level go/no-go decision within
+30 minutes, without additional preparation or document synthesis.
+
 ### Canonical Authorship
 
 This repository and all canonical references herein are authored and maintained by:

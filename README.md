@@ -5,8 +5,7 @@ is worth internal discussion, please start here:
 
 **[PI Quick Decision Pack — Go / No-Go Brief](docs/PI_Quick_Decision_Pack.md)**
 
-This document can be forwarded directly to students or collaborators
-for preliminary internal discussion, without requiring PI-led briefing.
+This document may be forwarded directly to students or collaborators as-is for preliminary internal discussion.
 
 ### Canonical Authorship
 

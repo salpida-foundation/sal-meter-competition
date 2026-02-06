@@ -2,6 +2,15 @@
 
 This document provides step-by-step guidance for teams and individuals wishing to participate in the Sal-Meter Open Competition.
 
+> **For PIs and lab leaders**
+>
+> Before reading the full application guide, you may wish to review the  
+> **[PI Quick Decision Pack (2 pages)](./PI_Quick_Decision_Pack.md)**.
+>
+> This document is designed to support a PI-level go/no-go decision within
+> 30 minutes, and can be shared directly in a lab or group meeting without
+> modification.
+
 ---
 
 ## Overview

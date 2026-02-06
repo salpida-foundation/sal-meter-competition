@@ -1,5 +1,8 @@
 ⚠️ Non-canonical index. All authority resides in DOI-registered canonical records.
 
+These documents are intended for orientation and participation only.
+They do not define standards, compliance, or canonical authority.
+
 ### For busy PIs
 
 If you have limited time and need to decide quickly whether this competition

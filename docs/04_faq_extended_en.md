@@ -1,171 +1,278 @@
 # Frequently Asked Questions (Extended FAQ)
 
-This document provides detailed answers to frequently asked questions about the Sal-Meter Open Competition.
+This document answers common questions about the Sal-Meter Open Competition.
+It is also intentionally designed to clarify **who this competition is for — and who it is not for**.
+
+If any concern below is decisive for your participation, **Track C is the recommended default entry point**.
 
 ---
 
-## 1. Judging Panel and SICS Role
+## 1. Governance, Judging, and the Role of SICS
 
 ### Q1. Who selects the judges?
 
-A. SICS (Salpida Institute of Consciousness Science) constitutes a panel of **7–9 independent judges**. This panel comprises external experts from the following disciplines:
+**A.**  
+The judging panel is constituted by **SICS (Salpida Institute of Consciousness Science)** and consists of **7–9 independent external experts** drawn from:
 
-- Biosensors
-- Aptamers
-- AI and Machine Learning
-- Statistics
-- Systems Engineering
-- Ethics
+- Biosensors  
+- Aptamer science  
+- AI and machine learning  
+- Statistics and validation science  
+- Systems engineering  
+- Ethics and governance  
 
-**Independence Criteria:**
+**Independence requirements:**
 
-- No direct financial interest in participating teams
-- No institutional affiliation with participating organizations during the competition period
-- SICS personnel **cannot serve on the Technical Judging Panel**
+- No financial interest in participating teams  
+- No institutional affiliation with participating organizations during the competition  
+- **SICS personnel cannot serve as technical judges**
 
 ---
 
-### Q2. What is SICS's role in the judging process?
+### Q2. What exactly is SICS’s role?
 
-A. SICS functions solely as a **constitutional oversight body**. Specifically:
+**A.**  
+SICS acts as a **constitutional and interpretive authority only**.
 
 **SICS does:**
 
-- Mediate disputes related to CAIS standard interpretation
-- Maintain interpretation consistency of canonical documents (CAIS, Sal-Meter standards, etc.)
-- Resolve conflicts between teams and judges
+- Interpret canonical standards (CAIS, Sal-Meter definitions)
+- Resolve disputes regarding rule interpretation
+- Maintain non-drift of governance and standards
 
 **SICS does not:**
 
-- Score prototypes
-- Rank teams
-- Directly determine prize/fund allocation
+- Score teams  
+- Rank prototypes  
+- Allocate research support or rewards  
+- Influence technical evaluation outcomes  
 
-> In summary, SICS is the "keeper of rules," not both "referee and player" simultaneously.
-
----
-
-### Q3. What are the judging criteria?
-
-A. The judging panel evaluates based on the following criteria:
-
-| Category | Weight | Description |
-|----------|--------|-------------|
-| CAIS Compliance | 25% | Adherence to CAIS v1.0, CAIS Compliance Boundary, and other technical standards |
-| Technical Performance | 40% | Quantitative metrics (sensitivity, specificity, reproducibility) |
-| Innovation | 20% | Novel approaches within CAIS boundaries, scalability potential |
-| Open-Source Contribution | 10% | Documentation quality, reproducibility, openness degree |
-| CCF Alignment | 5% | Alignment with CCF (Consciousness Civilization Framework) |
-
-**Critical:** Teams that violate mandatory standards (CAIS, Compliance Boundary, etc.) are **automatically disqualified**.
+In short: **SICS defines the rules but does not play the game.**
 
 ---
 
-### Q4. Can SICS bias scoring in favor of a particular team?
+### Q3. Can SICS influence results indirectly?
 
-A. The structure is designed to minimize such possibility:
+**A.**  
+No. This is intentionally prevented by design.
 
-1. **Judge Independence**
-   - SICS personnel cannot participate in technical evaluation
-   - Anyone with conflicts of interest (financial or institutional) is excluded
+Safeguards include:
 
-2. **Separation of Powers**
-   - "Rule design/interpretation (SICS)" is separated from "technical evaluation (independent panel)"
-   - No single institution controls both rules and scoring
+1. **Separation of powers**  
+   - Rule interpretation (SICS) and scoring (independent judges) are institutionally separated  
 
-3. **Result Transparency**
-   - Final CRO validation results and key performance data are published on GitHub, OSF, and other open repositories
-   - The validation process itself remains on public record
+2. **Conflict-of-interest exclusion**  
+   - Judges with financial or institutional conflicts are excluded  
 
-4. **Dispute Resolution**
-   - If teams challenge scoring, SICS Council reviews based on CAIS/charter standards
-   - Only "rule compliance" is reconsidered, not score adjustment
+3. **Public traceability**  
+   - Validation logic and results are published in open repositories  
 
----
+4. **Dispute scope limitation**  
+   - Only rule compliance may be reviewed  
+   - Scores themselves are not renegotiated  
 
-## 2. CRO (Independent Validation Organization) Relationship
-
-### Q5. Who conducts the final validation?
-
-A. All finalist teams must submit prototypes to an independent **Contract Research Organization (CRO)**.
-
-**Validation Cohort Example:**
-
-- Total: 50 participants
-- High VCE group: 25 participants
-- Low VCE group: 25 participants
-
-The CRO serves as **"measurement executor"** only and:
-
-- Cannot reinterpret CAIS specifications
-- Cannot propose new models
-- Cannot independently determine certification
-
-Interpretation authority resides solely with:
-
-- Canonical documents
-- Designer (Architect, Dr. Jinho Lee)
+If this governance model is uncomfortable, participation beyond Track C is not recommended.
 
 ---
 
-## 3. Team Composition and Participation Forms
+## 2. Validation and CRO Involvement
 
-### Q6. Must Track A teams have exactly 7 members?
+### Q4. Who performs final validation?
 
-A. The recommended composition is **7 members + advisory board**, but it is not mandatory. However, the following roles should be covered:
+**A.**  
+Final validation is conducted by an **independent Contract Research Organization (CRO)**.
 
-- Biosensor/Chemistry (2)
-- Signal Processing/AI (2–3)
-- Hardware Engineer (1)
-- Statistics/Validation Specialist (1)
-- Project Manager (1)
+The CRO’s role is strictly limited to **measurement execution**.
 
-The key is "all roles covered," not a specific headcount.
+The CRO:
 
----
+- Executes predefined validation protocols  
+- Reports raw and processed data  
 
-### Q7. Can Korean teams or international mixed teams participate?
+The CRO does **not**:
 
-A. Yes. There are no nationality restrictions, and **international collaboration is actively encouraged**. If time zones align, researchers from multiple countries can form a single team.
+- Redefine CAIS metrics  
+- Propose alternative interpretations  
+- Certify or endorse systems  
 
----
-
-### Q8. Can inexperienced students participate?
-
-A. Yes. The recommended structure is:
-
-- **Track A/B:** Leadership roles require 2–3+ years of professional/research experience; students participate in supporting roles
-- **Track C:** Students, individuals, and hobbyist developers are welcome to participate freely
-
-Students can build experience in Track C before advancing to Track A/B in later rounds.
+Interpretive authority resides exclusively in the **canonical DOI-registered documents**.
 
 ---
 
-## 4. Prize Money and Research Funding Relationship
+### Q5. Is this clinical or medical validation?
 
-### Q9. Can the prize cover all research costs?
+**A.**  
+No. This is intentional.
 
-A. No. As official documents state, the prize is **"completion compensation,"** not total research funding.
+- This is **research-grade validation only**
+- No diagnostic, therapeutic, or medical claims are permitted
+- Regulatory or clinical pathways are explicitly out of scope
 
-**Example (Track A team):**
-
-- Expected personnel costs: ~USD 630,000 (9 months)
-- Other costs (parts, lab, etc.): ~USD 270,000
-- **Total funding needed:** ~USD 900,000
-- **Prize:** USD 300,000 (if successful)
-
-Teams must independently secure additional funding (university research grants, corporate R&D budgets, external funding, etc.).
+If your work requires clinical endpoints or regulatory approval, this competition is not suitable at this stage.
 
 ---
 
-## 5. Additional Resources
+## 3. Team Structure and Eligibility
 
-- [Technical Details: How the Sal-Meter Works](./01_technical_details.md)
-- [Development Roadmap: 4-Phase Detailed Plan](./02_phase_roadmap.md)
-- [Team Composition Guide](./03_team_composition.md)
+### Q6. Must Track A teams have exactly seven members?
+
+**A.**  
+No. Seven members is a **reference structure**, not a rigid requirement.
+
+What matters is **coverage of roles**, not headcount:
+
+- Biosensor / chemistry expertise  
+- Signal processing or AI  
+- Hardware engineering  
+- Statistical validation  
+- Project coordination  
+
+Teams lacking one or more of these capabilities are unlikely to succeed in Track A.
 
 ---
 
-**License:** CC BY-SA 4.0
+### Q7. Can international or mixed-nationality teams participate?
+
+**A.**  
+Yes. There are **no nationality restrictions**.
+
+International and multi-institutional teams are explicitly encouraged, provided coordination is feasible.
+
+---
+
+### Q8. Can students participate?
+
+**A.**  
+Yes — with role clarity.
+
+- **Track A / B:**  
+  - Senior researchers lead  
+  - Students participate in supporting or scoped roles  
+
+- **Track C:**  
+  - Open to students, individuals, and exploratory contributors  
+
+Track C is the recommended entry path for students or first-time participants.
+
+---
+
+## 4. Research Support, Costs, and IP Boundaries
+
+### Q9. Can the provided support cover all research costs?
+
+**A.**  
+No.
+
+Any support provided in this competition is **milestone-based research support**, not full project financing.
+
+It is designed to:
+
+- Enable meaningful research progress  
+- Reward validated completion  
+
+It is **not** designed to fully underwrite large teams or institutions.
+
+If full cost coverage is required, participation beyond Track C is not recommended.
+
+---
+
+### Q10. Why is full funding intentionally avoided?
+
+**A.**  
+Because the goal is **signal validity and standard formation**, not institutional dependency.
+
+This structure ensures:
+
+- Serious teams self-select in  
+- Symbolic or under-committed projects self-select out  
+- Reduced risk of abandoned or superficial participation  
+
+This is a **filter by design**, not a limitation by accident.
+
+---
+
+### Q11. What about patents and IP?
+
+**A.**  
+Yes — but only within fixed boundaries.
+
+- Core standards (CAIS, Sal-Meter definitions, indices) remain **open** under CC BY-SA  
+- Implementation-specific innovations may be published or protected independently  
+- No retroactive IP ambiguity is permitted  
+
+**Yes, but only if you respect the boundary.**  
+If this is a concern, Track C is recommended instead.
+
+---
+
+## 5. Certification, Endorsement, and Common Misinterpretations
+
+### Q12. Does SICS certify or endorse teams or devices?
+
+**A.**  
+No.
+
+SICS:
+
+- Does not certify devices  
+- Does not endorse teams or products  
+- Does not issue regulatory approvals  
+
+Participation represents **research contribution**, not institutional endorsement.
+
+---
+
+### Q13. Is this a medical-device or commercialization pathway?
+
+**A.**  
+No.
+
+This competition operates **strictly upstream of regulation and commercialization**.
+
+Any downstream pathway would require:
+
+- Independent redesign  
+- Independent validation  
+- Independent regulatory submission  
+
+---
+
+## 6. When This Competition Is Not a Good Fit
+
+Participation is **not recommended** if:
+
+- Immediate commercialization is required  
+- Clinical claims are essential  
+- Closed or proprietary standards are preferred  
+- Only short-term, low-uncertainty projects are acceptable  
+
+This competition favors **exploratory rigor over guaranteed outcomes**.
+
+---
+
+## 7. Bottom-Line Guidance
+
+If your lab can allocate a **bounded, modular research effort** and operate within fixed open standards, participation is appropriate.
+
+If governance constraints or uncertainty are a concern, **Track C is the rational default**.
+
+Escalation to Track B or Track A remains optional and evidence-driven.
+
+---
+
+## Additional References
+
+- [Technical Overview](docs/01_technical_details.md)  
+- [Development Roadmap](docs/02_phase_roadmap_en.md)  
+- [Team Composition Guide](docs/03_team_composition.md)  
+- [Application Guide](docs/05_application_guide_en.md)
+
+---
+
+**License:** CC BY-SA 4.0  
+**Last Updated:** Current version aligned with canonical governance documents
+
+
+---
 
 **Last Updated:** February 3, 2026

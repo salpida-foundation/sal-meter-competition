@@ -1,443 +1,133 @@
-# Team Composition Guide: Building a Successful Sal-Meter Development Team
+# Team Composition Guide  
+## Sal-Meter Open Competition (Track A / B / C)
 
-## Overview
+This document defines **who should participate in each track** of the Sal-Meter Open Competition,  
+and—equally important—**who should not**.
 
-Completing the Sal-Meter project successfully requires expertise across multiple disciplines. This document outlines optimal team composition and roles for each Track.
-
----
-
-## Track A: Full-System Development Team (7 members + advisory board)
-
-### Core Team Structure
+This is not a motivational brochure.  
+It is a **filter**.
 
 ---
 
-#### 1. Biosensor/Chemistry Specialist (2 people)
+## Track A — Full-System CAIS Prototype Team
 
-**Required Experience:**
+> **Self-assessment note:**  
+> Track A assumes a fully capable, senior-level system development team.  
+> If you are unsure whether your team qualifies for Track A, you probably do not.
 
-- 3+ years of research in aptamer or biosensor development
-- Experience with chemical sensing technologies
-- Understanding of signal transduction mechanisms
 
-**Key Responsibilities:**
+### Who this track is for
 
-- Design and optimize aptamer–iodine reaction mechanisms
-- Validate sensor performance
-- Improve signal stability
-- Conduct reproducibility testing
+Track A is intended for **serious, well-resourced research teams** capable of delivering a **complete CAIS-compliant Sal-Meter prototype**.
 
-**Expected Background:**
+You should consider Track A **only if** your team can confidently answer “yes” to all of the following:
 
-- PhD or Master's degree + industry experience
-- Publication record
-- Prior industrial projects
+- We can allocate **6–9 months of sustained effort**
+- We can cover **~USD 1M total development cost** (the prize is partial compensation, not funding)
+- We already have **cross-domain experience** (hardware + chemistry + signal + validation)
+- We are comfortable working under **fixed, non-negotiable canonical standards**
 
----
+### Recommended core roles (all must be covered)
 
-#### 2. Signal Processing/AI Engineers (2–3 people)
+- Biosensor / Chemistry (Aptamer, redox, iodine systems) ×2  
+- Signal Processing / ML / AI ×2–3  
+- Hardware / Electronics Engineer ×1  
+- Statistics / Validation Specialist ×1  
+- Project Lead / Systems Integrator ×1  
 
-**Specialized Roles:**
+> Headcount is flexible. **Role coverage is not.**
 
----
+### Who should NOT apply to Track A
 
-##### 2-1) Signal Processing Engineer (1 person)
+- Teams seeking seed funding
+- Teams expecting to redefine CAIS or Sal-Meter standards
+- Teams without prior multi-disciplinary integration experience
+- Teams unwilling to publish validation results openly
 
-**Main Duties:**
-
-- Filter design (Kalman, Low-pass)
-- Feature extraction algorithm development
-- Signal-to-noise ratio (SNR) optimization
-- Digital Signal Processing (DSP) implementation
-
-**Required Experience:**
-
-- 3+ years in signal processing theory and implementation
-- Proficiency in MATLAB/Python
-- Prior sensor signal processing experience
+If any of the above applies, **Track A is not recommended**.
 
 ---
 
-##### 2-2) Machine Learning/AI Engineer (1–2 people)
+## Track B — Modular Subsystem or Validation Track
 
-**Main Duties:**
+### Who this track is for
 
-- Develop VCE/CRI/CFI index calculation models
-- Build and curate training datasets
-- Design neural network architectures
-- Model validation and performance optimization
+Track B is designed for **focused research groups** that excel in **one strong domain**, such as:
 
-**Required Experience:**
+- Sensor module development
+- Signal processing or statistical modeling
+- Hardware subsystems
+- Validation pipelines
 
-- Proficiency in TensorFlow/PyTorch
-- 2+ years of regression/classification model development
-- Prior biomedical/healthcare AI projects (preferred)
+This track rewards **depth over breadth**.
 
----
+### Typical team profile
 
-#### 3. Hardware Engineer (1 person)
+- 3–5 researchers or engineers
+- Clear ownership of **one CAIS-compatible module**
+- Ability to deliver **quantitative, reproducible results**
 
-**Key Responsibilities:**
+Track B teams are **not expected** to build a full Sal-Meter system.
 
-- PCB design and layout
-- Sensor module integration
-- Electronic component selection
-- Design for manufacturability (DFM) review
-- Hardware testing and validation
+### When Track B is the correct choice
 
-**Required Experience:**
-
-- 3+ years in sensor-based device development
-- PCB design proficiency (KiCAD/Altium)
-- Signal integrity design knowledge
+- You want meaningful contribution without full-system risk
+- Your lab already has relevant infrastructure
+- You want publication-quality results within a bounded scope
 
 ---
 
-#### 4. Statistics/Validation Specialist (1 person)
+## Track C — Exploratory / Individual / Entry Track
 
-**Key Responsibilities:**
+### Who this track is for
 
-- Experimental design (DOE)
-- Statistical analysis and validation
-- Sensitivity/specificity calculations
-- CRO (Contract Research Organization) preparation
-- Support for regulatory documentation
+Track C is the **default low-risk entry point**.
 
-**Required Experience:**
+It is suitable for:
 
-- 2+ years in biomedical statistics or clinical trial experience
-- Understanding of FDA/EMA regulatory pathways
-- SAS/R programming proficiency
+- Individual researchers
+- PhD students or postdocs
+- Small exploratory teams
+- Researchers curious but not yet committed
 
----
+### Characteristics
 
-#### 5. Project Manager (1 person)
+- Time commitment: **3–6 months (flexible)**
+- Scope: **one clearly bounded experiment or prototype**
+- No requirement to escalate to Track B or A
 
-**Key Responsibilities:**
+Track C is intentionally permissive, **but not unserious**.
 
-- Schedule management (Gantt charts, milestones)
-- Cross-functional team coordination
-- Risk management
-- Stakeholder communication
-- Budget tracking
+### What Track C is NOT
 
-**Required Experience:**
+- A hobby contest with no standards
+- A sandbox to ignore CAIS definitions
+- A shortcut to Track A funding
 
-- 3+ years of project management experience
-- Agile/Scrum proficiency
-- R&D project background
+Escalation is **earned through data**, not intent.
 
 ---
 
-### Optional Advisory Board
+## Summary Decision Table
 
-| Role | Scope | Time Commitment |
-|------|-------|-----------------|
-| Medical Advisor | Clinical design, regulatory pathway | 4 hours/month |
-| Ethics Advisor | Research ethics, regulatory compliance | 2 hours/month |
-| Industry Expert | Technical consultation | 1 session/quarter |
-
----
-
-## Track B: Component Development Teams (3–5 members each)
-
-### Signal Processing Algorithm Team
-
-**Team Composition:**
-
-- Signal processing lead (1)
-- Engineers (2)
-
-**Deliverables:**
-
-- Filtering library
-- Feature extraction module
-- Test suite
+| Question | If your answer is “yes” | Recommended Track |
+|--------|------------------------|-------------------|
+| Can we build a full CAIS system? | Yes | Track A |
+| Can we deliver a strong subsystem? | Yes | Track B |
+| Are we exploring feasibility? | Yes | Track C |
+| Do we want funding without constraints? | Yes | Do not apply |
 
 ---
 
-### AI/Machine Learning Team
+## Final Guidance
 
-**Team Composition:**
+If you are uncertain between tracks, **start with Track C**.
 
-- ML engineers (2–3)
+Track escalation is:
+- Optional
+- Data-driven
+- Non-punitive
 
-**Deliverables:**
-
-- VCE/CRI/CFI calculation models
-- Training dataset documentation
-- Model validation report
-
----
-
-### Firmware/Embedded Systems Team
-
-**Team Composition:**
-
-- Embedded engineers (2)
-
-**Deliverables:**
-
-- Sensor control firmware
-- Data collection code
-- Hardware test protocol
+There is no advantage to overcommitting early.
 
 ---
-
-### Mobile/Web Application Team
-
-**Team Composition:**
-
-- Full-stack developers (2–3)
-
-**Deliverables:**
-
-- Mobile app (iOS/Android)
-- Web dashboard
-- Cloud API
-
----
-
-### Cloud/Infrastructure Team
-
-**Team Composition:**
-
-- Cloud architect (1)
-- DevOps engineer (1)
-
-**Deliverables:**
-
-- Cloud platform design
-- Data storage infrastructure
-- CI/CD pipeline
-
----
-
-## Track C: Open Community Roles
-
-### Individual Contributors (1–2 people)
-
-**Possible Contributions:**
-
-- Prototype development
-- Technical blog posts
-- Tutorial videos
-- Bug reporting
-- Performance testing
-
-**Expected Time Commitment:**
-
-- 5–10 hours per week
-
----
-
-### Students/Researchers
-
-**Possible Contributions:**
-
-- Literature review
-- Principle validation
-- Manuscript preparation
-- Open-source contributions
-
-**Expected Time Commitment:**
-
-- 10–20 hours per week
-
----
-
-## Team Composition Checklist
-
-### Track A (Full System Development)
-
-- [ ] Biosensor PhD (1) – 3+ years experience
-- [ ] Biosensor PhD (1) – 3+ years experience
-- [ ] Signal Processing Engineer (1) – 3+ years experience
-- [ ] ML Engineer (1–2) – 2+ years experience
-- [ ] Hardware Engineer (1) – 3+ years experience
-- [ ] Statistics Specialist (1) – 2+ years experience
-- [ ] Project Manager (1) – 3+ years experience
-- [ ] Advisory board members (3, optional)
-
-**Total:** 7 members + advisory board
-
----
-
-### Track B (Component Development)
-
-Choose one or more tracks:
-
-- [ ] **Signal Processing:** Lead (1) + Engineers (2)
-- [ ] **AI/ML:** Machine Learning Engineers (2–3)
-- [ ] **Firmware:** Embedded Engineers (2)
-- [ ] **App/Web:** Full-stack Developers (2–3)
-- [ ] **Cloud/Infrastructure:** Architect (1) + DevOps (1)
-
-**Total:** 3–5 members per track
-
----
-
-### Track C (Open Community)
-
-- [ ] Minimum 1 person (focused on one area)
-- [ ] Or team (multi-disciplinary)
-
-**Total:** Flexible
-
----
-
-## Team Recruitment Strategy
-
-### Phase 1: Academic Network (2–3 weeks)
-
-**Recruitment Sources:**
-
-- University biosensor research labs
-- Electronics/signal processing departments
-- AI/machine learning research centers
-- Academic medical engineering labs
-
-**Methods:**
-
-- Faculty referrals
-- Alumni networks
-- Academic seminars
-
----
-
-### Phase 2: Industry Recruitment (3–4 weeks)
-
-**Recruitment Sources:**
-
-- HealthTech companies
-- Sensor manufacturers
-- Medical device companies
-- AI startups
-
-**Methods:**
-
-- LinkedIn outreach
-- GitHub portfolio search
-- Industry conferences
-
----
-
-### Phase 3: Global Recruitment (4–6 weeks)
-
-**Recruitment Sources:**
-
-- International universities
-- Global tech companies
-- Open-source communities
-
-**Methods:**
-
-- GitHub job postings
-- Stack Overflow
-- International academic networks
-
----
-
-## Interview Evaluation Criteria
-
-### Technical Capability (40 points)
-
-- Relevant project experience (15 points)
-- Technical stack proficiency (15 points)
-- Problem-solving ability (10 points)
-
-### Experience Level (30 points)
-
-- Sensor/biomedical background (15 points)
-- Team project experience (15 points)
-
-### Cultural Fit (30 points)
-
-- Passion for consciousness research (10 points)
-- Open-source philosophy alignment (10 points)
-- Team collaboration ability (10 points)
-
----
-
-## Compensation & Incentives
-
-### Track A ($300K per team)
-
-**Example Distribution (7 members):**
-
-- Biosensor PhD × 2: $60K each
-- Engineers × 3: $50K each
-- Statistics specialist: $40K
-- Project manager: $50K
-
-**Total:** $300K
-
-*Actual distribution determined by team discretion*
-
----
-
-### Track B ($50–100K per team)
-
-**Example (4 members):**
-
-- Team lead: $30K
-- Engineers × 2: $20K each
-
-**Total:** $70K
-
----
-
-### Additional Incentives
-
-- Peer-reviewed publication support
-- Patent application funding
-- Conference participation sponsorship
-- Referral bonuses
-
----
-
-## Frequently Asked Questions
-
-### Q1. Must all team members work full-time?
-
-**A.** No. Full-time is recommended for Track A. Track B and C allow part-time participation.
-
----
-
-### Q2. Can international team members participate?
-
-**A.** Yes. International collaboration is welcome, provided time zones align for coordination.
-
----
-
-### Q3. Can early-career or junior researchers participate?
-
-**A.** Track C is open to all levels. Track A/B benefit from senior/leadership-level expertise but may include junior members under supervision.
-
----
-
-### Q4. Can team composition be modified during development?
-
-**A.** Yes, team adjustments are possible during development with prior notice to organizers.
-
----
-
-### Q5. What if our team is smaller than recommended?
-
-**A.** Team members can wear multiple hats (e.g., one person handling both signal processing and firmware). Notify organizers of any deviations from recommended structure.
-
----
-
-## References
-
-- [Technical Details: How the Sal-Meter Works](./01_technical_details.md)
-- [Development Roadmap: 4-Phase Detailed Plan](./02_phase_roadmap.md)
-- CAIS Architecture v1.0: https://doi.org/10.5281/zenodo.18160387
-- Sal-Meter Prototype Guide v1.0: https://doi.org/10.5281/zenodo.18161872
-
----
-
-**License:** CC BY-SA 4.0
-
-**Last Updated:** February 3, 2026
-

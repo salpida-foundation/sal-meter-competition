@@ -197,11 +197,3 @@ If your team can operate under **clear constraints, open standards, and binary e
 **License:** CC BY-SA 4.0  
 **Last Updated:** February 3, 2026
 
----
-
----
-
-**License:** CC BY-SA 4.0
-
-**Last Updated:** February 3, 2026
-

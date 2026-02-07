@@ -1,109 +1,127 @@
 # PI Quick Decision Pack  
-## Sal-Meter Open Competition — Go / No-Go Brief for Principal Investigators
+## Sal-Meter Open Competition  
+### Go / No-Go Brief for Principal Investigators
 
-This document is designed to be sufficient for a PI-level go/no-go decision within 30 minutes, without additional preparation, document synthesis, or internal re-framing.
+This document is written for Principal Investigators (PIs) and lab leads who need to decide—within approximately 30 minutes—whether participation in the Sal-Meter Open Competition is worth internal discussion or exploratory commitment.
+
+No additional synthesis, proposal drafting, or reframing is required to use this document.
 
 ---
 
 ## What this competition is
 
-- An international open scientific competition to build **objective consciousness-measurement systems** based on the CAIS (Consciousness–Aptamer Interface System) standard.
-- A **research-grade, pre-regulatory program** focused on sensor validation, signal processing, and system architecture.
-- A framework where **governance, authorship, and IP boundaries are fixed upfront** via DOI-registered canonical documents.
+- An international, open scientific program to explore **objective measurement of consciousness-like signals** under the CAIS (Consciousness–Aptamer Interface System) standard.
+- A **research-grade, pre-regulatory initiative** focused on sensors, signal pipelines, and system-level validation.
+- A framework where **definitions, governance, authorship, and IP boundaries are fixed in advance** through DOI-registered canonical documents.
+
+This is a structured research environment, not an open-ended experiment.
 
 ---
 
 ## What this competition is not
 
-- Not a startup accelerator.
-- Not a venture or commercialization program.
-- Not a proprietary or closed platform.
-- Not a clinical or medical-claim project.
+- Not a startup accelerator or venture program  
+- Not a commercialization or licensing initiative  
+- Not a proprietary or closed platform  
+- Not a clinical study or medical-claims project  
+
+No diagnostic, therapeutic, or regulatory claims are expected or permitted at this stage.
 
 ---
 
 ## Governance and IP in one glance
 
-- Canonical definitions and compliance rules are fixed via DOI-registered records.
-- Core standards remain open (CC BY-SA 4.0).
-- Implementation-specific work may be published and credited independently.
-- No retroactive IP ambiguity or governance drift.
+- All canonical definitions and compliance requirements are fixed via DOI-registered documents.
+- Core standards and reference designs remain open under CC BY-SA 4.0.
+- Implementation-specific work may be published, credited, and extended independently.
+- No retroactive IP claims, governance drift, or post hoc reinterpretation.
+
+From a PI perspective, **institutional and reputational risk is explicitly bounded**.
 
 ---
 
-## Risk–Reward snapshot
+## Risk–reward snapshot
 
 | Dimension | Assessment |
 |---------|------------|
 | Scientific novelty | High |
-| Time commitment | Modular and bounded |
-| Career upside | Publications, standard authorship, visible contribution |
-| Reputational downside | Low (research-only, no clinical claims) |
-| IP risk | Low (boundaries defined upfront) |
+| Scope control | High (modular participation) |
+| Time commitment | Bounded and scalable |
+| Career upside | Publications, standard-linked authorship, visible contribution |
+| Reputational downside | Low (research-only, non-clinical) |
+| IP ambiguity | Low (boundaries fixed upfront) |
+
+This is not a binary “bet-the-lab” project.
 
 ---
 
 ## Minimum viable participation (Track C)
 
-- Team size: 1 PhD or Postdoc + optional MSc/Engineer
-- Time scale: 3–6 months exploratory effort
-- Scope: One clearly bounded module aligned with existing lab strengths
-- No requirement to commit to full system development
+Track C is designed as the **default, low-risk entry path**.
 
-Track C is the primary low-risk entry pathway.  
-Escalation to Track B or Track A remains optional and data-driven.
+- **Team size:** 1 PI / Postdoc / PhD researcher (+ optional MSc or engineer)
+- **Time scale:** 3–6 months exploratory effort
+- **Scope:** One clearly bounded module aligned with existing lab strengths
+- **Commitment:** No obligation to pursue full system development
+
+Escalation to Track B or Track A is optional and strictly data-driven.
 
 ---
 
 ## Expected academic outcomes
 
-Depending on scope and contribution:
+Depending on contribution scope, participation may yield:
 
-- Methodology or prototype papers
-- Sensor, signal-processing, or system-architecture publications
-- Preprints or workshop papers related to consciousness-measurement interfaces
-- Explicit linkage to CAIS / CCF canonical standards for citation and attribution
+- Methodology, prototype, or validation papers  
+- Sensor, signal-processing, or system-architecture publications  
+- Preprints or workshop papers related to consciousness-measurement interfaces  
+- Explicit citation linkage to CAIS / CCF canonical standards
 
-Participation can be listed as:  
-“Sal-Meter CAIS Open Competition — Research Team Member”
+Participation may be listed as:
+
+> “Sal-Meter CAIS Open Competition — Research Team Member”
 
 ---
 
-## If the project does not progress, what remains
+## If the project does not progress
 
-- Validated or partially validated sensor or signal pipelines
-- Reusable experimental protocols and datasets
-- New exploratory research directions compatible with future grants
-- Publishable negative or boundary-finding results
+Even if a contribution does not mature into a full prototype:
 
-Participation is structured as a **learning-positive project**, not a zero-sum bet.
+- Partial sensor or signal pipelines remain reusable  
+- Experimental protocols and datasets can be retained  
+- Boundary-finding or negative results remain publishable  
+- New grant-compatible research directions may emerge  
+
+Participation is structured as a **learning-positive effort**, not a zero-sum outcome.
 
 ---
 
 ## Early participation and isolation risk
 
-Early participation does not imply isolation.
+Early participation does **not** imply isolation.
 
-- Multiple independent teams are reviewing or exploring participation paths.
-- No team is expected to develop the full CAIS stack alone.
-- Contributions are explicitly modular by design.
+- Multiple independent teams are evaluating or preparing exploratory entries.
+- No single team is expected to implement the full CAIS stack.
+- Contributions are modular by design and reviewed independently.
+
+There is no “first-mover lock-in” risk.
 
 ---
 
-## When not to participate
+## When participation is not recommended
 
-Participation is not recommended if:
+This competition may not be suitable if:
 
-- No modular effort can be allocated.
-- Immediate clinical translation is required.
-- Fixed open standards are unacceptable.
-- Only short-term, low-uncertainty projects are preferred.
+- No modular research effort can be allocated
+- Immediate clinical translation is required
+- Fixed open standards are incompatible with lab policy
+- Only short-term, low-uncertainty projects are acceptable
 
 ---
 
 ## Bottom-line decision rule
 
-If your lab is interested in objective measurement of mental or consciousness-related states, and can allocate a small, modular exploratory effort, Track C participation is a rational default.
+If your lab is interested in **objective measurement of mental or consciousness-related states**, and can allocate a small, modular exploratory effort, Track C participation is a rational default.
 
 Escalation remains optional.
 
@@ -116,3 +134,4 @@ Escalation remains optional.
 3. Decide internally whether a Track C exploratory contribution is feasible.
 
 No further commitment is required at this stage.
+

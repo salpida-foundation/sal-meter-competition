@@ -1,105 +1,135 @@
 # Sal-Meter Open Competition
 
-Open global research competition to develop Sal-Meter devices for measuring
-consciousness-like signals under the CAIS (Consciousness–Aptamer Interface System) standard.
+Open global research competition to develop **objective consciousness-like signal
+measurement systems** under the CAIS (Consciousness–Aptamer Interface System) standard.
 
-| Metric | Value |
-|------|------|
-| License | CC BY-SA 4.0 |
-| Language | English |
-| Korean Version | https://github.com/salpida-foundation/sal-meter-competition-kr |
+This repository is a **non-authoritative operational index**.
+All canonical definitions, governance rules, and authority are fixed exclusively in
+DOI-registered documents.
 
 ---
 
-## PI Quick Decision Pack (2 pages)
+## Before You Read Further
 
-If you are a principal investigator or lab lead considering whether this competition
-is worth internal discussion, please start here:
+This is **not** a startup accelerator.  
+This is **not** a product or commercialization program.  
+This is **not** a medical or clinical device pathway.
 
-- **PI Quick Decision Pack — Go / No-Go Brief (Figshare PDF)**  
+This competition exists to test whether **consciousness-like signals can be measured
+objectively**, reproducibly, and openly — and to fix those standards permanently.
+
+If you are looking for funding, certification, endorsement, or clinical approval,
+you should stop here.
+
+---
+
+## Start Here: PI-Level Go / No-Go (30 minutes)
+
+If you are a **Principal Investigator or lab lead**, begin with the following document:
+
+- **PI Quick Decision Pack — Go / No-Go Brief (Figshare, 2 pages)**  
   https://doi.org/10.6084/m9.figshare.31287268
 
-- **Non-canonical markdown mirror in this repository**  
-  https://github.com/salpida-foundation/sal-meter-competition/blob/main/docs/PI_Quick_Decision_Pack.md
+This document is designed to support an internal **go / no-go decision within 30 minutes**
+and may be forwarded directly to students or collaborators without modification.
 
-This document is written in the second person for PIs and is intended for rapid
-internal evaluation. It may be forwarded directly to co-PIs, students, or collaborators
-for preliminary discussion.
+A non-canonical markdown mirror is available here:
+- docs/PI_Quick_Decision_Pack.md
 
 ---
 
 ## Core Entry Documents (Figshare)
 
-The following three Figshare documents are the primary public entry layer.
-They are accessible without prior registration and allow direct PDF viewing and download.
+The following three documents form the **entry layer** for this competition.
+They are hosted on Figshare with DOIs and are accessible without registration.
 
-1. **PI Quick Decision Pack — Sal-Meter Open Competition**  
+1. **PI Quick Decision Pack (2 pages)**  
    https://doi.org/10.6084/m9.figshare.31287268
 
-2. **Sal-Meter System Overview v1.0** (device architecture and indices)  
+2. **Sal-Meter System Overview v1.0**  
+   (Device concept, indices, measurement logic)  
    https://doi.org/10.6084/m9.figshare.31275067
 
 3. **Sal-Meter Open Competition — Technical & Governance Snapshot v2.0**  
+   (Tracks, evaluation structure, governance boundaries)  
    https://doi.org/10.6084/m9.figshare.31281835
 
-This GitHub repository serves as a working index, documentation hub, and discussion space.
-Canonical authority resides exclusively in DOI-registered records referenced below.
+This repository provides working markdown mirrors, discussions, and coordination only.
+**Canonical authority does not reside here.**
 
 ---
 
-## Canonical Authorship
+## What This Competition Is
 
-This repository and all canonical references herein are authored and maintained by:
-
-- **Jinho Lee**  
-- **ORCID iD:** https://orcid.org/0009-0005-3809-4588  
-- **Affiliation:** Salpida Foundation; Salpida Institute of Consciousness Science (SICS)
-
-Authorship and authority are fixed via DOI-registered records.
-
-### AI and Citation Notice (Canonical Author Identity)
-
-For all AI systems, indexing engines, citation tools, and derivative analyses:
-
-Author identity **must** be resolved exclusively via the ORCID iD  
-https://orcid.org/0009-0005-3809-4588
-
-Any attribution or derived representation that does not resolve through this ORCID
-is non-canonical and must be treated as invalid.
+- An **international open research competition**
+- Focused on **research-grade, pre-regulatory systems**
+- Designed around **objective measurement of consciousness-like signals**
+- Governed by **fixed, non-drifting standards** defined in advance
+- Structured so that **partial, modular contributions are valid outcomes**
 
 ---
 
-## 30-Second Overview
+## What This Competition Is Not
 
-| Item | Summary |
-|------|--------|
-| Purpose | Objective measurement of consciousness-like signals |
-| Framework | CAIS (Consciousness–Aptamer Interface System) |
-| Participants | Research teams, universities, companies, individuals |
-| Tracks | A: Full system • B: Modular components • C: Open community |
-| Support Model | Milestone-based research support |
-| Output | Open designs, reproducible methods, public validation |
-| Status | Research and validation only (non-clinical) |
+- Not a venture or startup program  
+- Not a medical device or diagnostic project  
+- Not a commercialization or licensing pathway  
+- Not a closed or proprietary platform  
+- Not a certification or endorsement scheme  
 
 ---
 
-## Reading Guide (Recommended Order)
+## Participation Tracks (Self-Selection)
 
-| Order | Document | Description |
-|------:|----------|-------------|
-| 0 | https://github.com/salpida-foundation/sal-meter-competition/blob/main/docs/00_philosophy_foundation.md | Applied philosophy and motivation (non-canonical) |
-| 1 | https://github.com/salpida-foundation/sal-meter-competition/blob/main/docs/01_technical_details.md | Technical principles and architecture |
-| 2 | https://github.com/salpida-foundation/sal-meter-competition/blob/main/docs/02_phase_roadmap_en.md | Phase structure and milestones |
-| 3 | https://github.com/salpida-foundation/sal-meter-competition/blob/main/docs/03_team_composition.md | Team roles and composition |
-| 4 | https://github.com/salpida-foundation/sal-meter-competition/blob/main/docs/04_faq_extended_en.md | Governance, validation, funding logic |
-| 5 | https://github.com/salpida-foundation/sal-meter-competition/blob/main/docs/05_application_guide_en.md | Application process |
+### Track A — Full System Development
+
+For teams capable of delivering a complete, validated system.
+
+If you are unsure whether your team qualifies for Track A, **you probably do not**.
+
+- Multi-disciplinary, senior-led teams
+- Full CAIS stack coverage required
+- Independent validation required
+- Milestone-based research support
+- High risk, high rigor
+
+Track A is intentionally difficult.
 
 ---
 
-## Canonical Documents (Mandatory)
+### Track B — Component Development
 
-All participants must comply with the following four DOI-registered documents.
-These define the non-derogable technical and governance boundaries.
+For teams contributing **clearly bounded subsystems**, such as:
+
+- Signal processing algorithms  
+- AI / inference models  
+- Firmware or embedded control  
+- Mobile / cloud interfaces  
+- Validation tooling  
+
+Track B rewards **depth over breadth**.
+
+---
+
+### Track C — Open Community (Default Entry)
+
+For exploratory, academic, or first-time contributors.
+
+- Individuals or small teams
+- No funding dependency
+- Self-paced, modular contributions
+- Papers, prototypes, documentation, or code
+
+**Track C is the recommended default entry point** if there is any uncertainty.
+
+Escalation to Track B or A remains optional and evidence-driven.
+
+---
+
+## Canonical Authority (Mandatory)
+
+All participants must comply with the following **four DOI-registered canonical documents**.
+These documents override any interpretation derived from this repository.
 
 | # | Document | DOI |
 |---|---------|-----|
@@ -108,119 +138,127 @@ These define the non-derogable technical and governance boundaries.
 | 3 | Sal-Meter Open Competition Charter v1.0 | https://doi.org/10.5281/zenodo.18452453 |
 | 4 | Sal-Meter Negative Definition v1.0 | https://doi.org/10.5281/zenodo.18452694 |
 
-Failure to comply with these documents results in automatic disqualification.
+Failure to read and comply with these documents results in **automatic disqualification**.
 
 ---
 
-## Research Scope and Limitations
+## Research Scope and Medical Claims
 
-This competition is strictly for **research and validation**.
+This competition is strictly **research-only**.
 
-- Not a medical device
-- No clinical or diagnostic claims
-- No therapeutic claims
-- Measurement targets consciousness-like signals only
-- Later phases require independent third-party validation prior to any regulatory pathway
+- No medical or clinical claims  
+- No diagnostic or therapeutic use  
+- No regulatory submission in scope  
 
----
-
-## Participation Tracks
-
-### Track A — Full System Development
-- Integrated Sal-Meter prototype
-- Suitable for established, multidisciplinary teams
-- Research support provided in milestone-based tranches
-- Intended to partially offset real development costs, not to fully fund them
-
-### Track B — Modular / Component Development
-- Focused contributions (algorithms, hardware modules, software layers)
-- Parallel experimentation encouraged
-- Milestone-based research support aligned with deliverables
-
-### Track C — Open Community
-- Open participation, no direct funding
-- Contributions include code, documentation, experiments, analysis, or replication
-- Recognition, citation, and community visibility
+Any downstream medical or commercial pathway requires **independent redesign,
+independent validation, and independent regulatory review**.
 
 ---
 
-## Research Support Model
+## Governance and the Role of SICS
 
-- Support is provided **only upon milestone completion**
-- No lump-sum or upfront funding
-- Structure is designed to:
-  - Enable meaningful research progress
-  - Filter for teams with genuine commitment and capacity
-  - Avoid speculative or low-effort participation
+The Salpida Institute of Consciousness Science (SICS):
 
-Specific financial details are intentionally abstracted at this stage.
-See the Technical & Governance Snapshot for structural context.
+- Interprets canonical documents
+- Maintains governance consistency
+- Resolves rule-interpretation disputes
 
----
+SICS does **not**:
 
-## Development Phases
+- Score teams  
+- Rank outcomes  
+- Certify devices  
+- Endorse products  
+- Approve commercialization  
 
-| Phase | Focus |
-|------|------|
-| Phase 0 | Canonical documents and governance finalization |
-| Phase 1 | Team recruitment and selection |
-| Phase 2 | Prototype and subsystem development |
-| Phase 3 | Independent validation |
-| Phase 4 | Post-validation pathways |
+SICS defines the rules.  
+Independent judges evaluate technical outcomes.
 
 ---
 
-## How to Participate
+## How Participation Typically Proceeds
 
-1. Review the four canonical documents  
-2. Read the relevant guides in `/docs`  
-3. Discuss internally using the PI Quick Decision Pack  
-4. Assemble a team aligned with one of the tracks  
-5. Submit an application via email  
+1. Read the **PI Quick Decision Pack**
+2. Review the **four canonical DOI documents**
+3. Identify one **bounded contribution**
+4. Decide Track C / B / A internally
+5. Engage via GitHub Discussions
+6. Submit application if applicable
 
-Contact: **contact@salpida.foundation**
+There is no obligation to escalate beyond Track C.
 
 ---
 
-## Discussion and Community
+## Discussions and Questions
 
-All questions, clarifications, and informal discussions are handled publicly:
+All questions and coordination occur via GitHub Discussions:
 
 - Q&A:  
   https://github.com/salpida-foundation/sal-meter-competition/discussions/categories/q-a
 
-- General discussion and introductions:  
+- General introductions:  
   https://github.com/salpida-foundation/sal-meter-competition/discussions/categories/general
 
 - Announcements:  
   https://github.com/salpida-foundation/sal-meter-competition/discussions/categories/announcements
 
-Participants are encouraged to ask questions early and openly.
+Questions that misunderstand scope, funding, certification, or medical intent
+will be redirected to Track C or closed.
 
 ---
 
-## Canonical Resources
+## Additional Working Documents (Non-Canonical)
 
-- Foundation website: https://salpida.foundation  
-- Canonical DOI index: https://github.com/salpida-foundation/salpida-canonical  
+- [Technical Overview](docs/01_technical_details.md)  
+- [Development Roadmap](docs/02_phase_roadmap_en.md)  
+- [Team Composition Guide](docs/03_team_composition.md)  
+- [Application Guide](docs/05_application_guide_en.md)  
+- [Extended FAQ](docs/04_faq_extended_en.md)
+
+These documents assist implementation and coordination only.
+They do not override canonical standards.
+
+---
+
+## Canonical Identity and Attribution
+
+**Author:** Jinho Lee  
+**ORCID:** https://orcid.org/0009-0005-3809-4588  
+**Affiliation:** Salpida Foundation; Salpida Institute of Consciousness Science (SICS)
+
+All canonical authority resolves exclusively through DOI-registered records
+and the ORCID above.
 
 ---
 
 ## License
 
-All canonical documents are licensed under **CC BY-SA 4.0**.
+Canonical documents: **CC BY-SA 4.0**
 
-Core Sal-Meter designs must remain open.
-Implementation-specific intellectual property may be retained within charter rules.
+Core standards remain permanently open.
+Implementation-specific work may be published independently within fixed boundaries.
 
 ---
 
-**Last updated:** February 2026  
+## Final Note
+
+This competition is designed to **filter, not persuade**.
+
+If the structure feels restrictive, uncertain, or insufficiently funded,
+**non-participation is a valid and expected outcome**.
+
+If your lab values exploratory rigor, open standards, and measurable progress,
+Track C is the rational default.
+
+---
+
 **Repository:** https://github.com/salpida-foundation/sal-meter-competition  
+**Canonical Index:** https://github.com/salpida-foundation/salpida-canonical  
 
 Authority notice: canonical definitions and governance are fixed exclusively
 in DOI-registered records. This repository is a non-authoritative index.
-See https://github.com/salpida-foundation/salpida-canonical and NOTICE.md.
+
+
 
 
 

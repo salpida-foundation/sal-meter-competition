@@ -262,10 +262,10 @@ Escalation to Track B or Track A remains optional and evidence-driven.
 
 ## Additional References
 
-- [Technical Overview](docs/01_technical_details.md)  
-- [Development Roadmap](docs/02_phase_roadmap_en.md)  
-- [Team Composition Guide](docs/03_team_composition.md)  
-- [Application Guide](docs/05_application_guide_en.md)
+- [Technical Overview](./01_technical_details.md)  
+- [Development Roadmap](./02_phase_roadmap_en.md)  
+- [Team Composition Guide](./03_team_composition.md)  
+- [Application Guide](./05_application_guide_en.md)
 
 ---
 

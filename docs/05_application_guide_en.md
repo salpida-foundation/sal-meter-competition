@@ -9,8 +9,7 @@ is appropriate for their current research stage.
 
 For decision-making support, refer first to:
 
-**PI Quick Decision Pack (2 pages)**  
-`docs/PI_Quick_Decision_Pack.md`
+**[PI Quick Decision Pack (2 pages)](./PI_Quick_Decision_Pack.md)**
 
 That document is designed to support a PI-level Go / No-Go decision and may be
 shared internally without modification.
@@ -56,11 +55,12 @@ All applicants are expected to be familiar with the following
 **canonical, DOI-registered documents**:
 
 | Document | Role |
-|--------|------|
-| Sal-Meter Canonical Definition v1.0 | Defines what qualifies as a Sal-Meter |
-| CAIS Compliance Boundary v1.0 | Defines mandatory technical and structural constraints |
-| Competition Charter v1.0 | Defines governance, evaluation, and participation rules |
-| Sal-Meter Negative Definition v1.0 | Defines what is explicitly excluded |
+|---------|------|
+| [Sal-Meter Canonical Definition v1.0](https://doi.org/10.5281/zenodo.18452075) | Defines what qualifies as a Sal-Meter |
+| [CAIS Compliance Boundary v1.0](https://doi.org/10.5281/zenodo.18452269) | Defines mandatory technical and structural constraints |
+| [Competition Charter v1.0](https://doi.org/10.5281/zenodo.18452453) | Defines governance, evaluation, and participation rules |
+| [Sal-Meter Negative Definition v1.0](https://doi.org/10.5281/zenodo.18452694) | Defines what is explicitly excluded |
+
 
 These documents fix the interpretive boundaries of the competition.
 Applications that contradict them cannot be evaluated.

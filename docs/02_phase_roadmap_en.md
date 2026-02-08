@@ -1,199 +1,189 @@
-# Development Roadmap: Phase-Based Progression Structure
+# Sal-Meter Open Competition  
+## 4-Phase Execution Plan (Research-Centric Edition)
 
-This document defines the **phase-based progression structure** of the  
-Sal-Meter Open Competition.
+This document defines the **four-phase execution roadmap for development, validation, and downstream expansion** of the Sal-Meter Open Competition.
 
-This is **not a promise of continuity**.  
-Each phase is an **independent evaluation gate**.
+The program is not a conventional technology contest or idea pitch.  
+It is designed as a **large-scale, coordinated scientific challenge** addressing a question that has not yet been reproducibly resolved:
 
-Advancement is **earned**, not assumed.
+**Can consciousness-related signals be materially separated, measured, and validated under shared constraints?**
 
----
+Multiple independent research teams are invited to explore this question in parallel, under a fixed architectural and governance framework, producing results that remain scientifically valid whether they succeed, partially succeed, or establish clear boundaries of failure.
 
-## Overview: How Progression Works
+Participants are positioned to:
+- Occupy an **early, leading research role** in an undeveloped measurement domain  
+- Retain full academic authorship and scientific responsibility for their results  
+- Work within an already fixed CAIS structure while maintaining **freedom of implementation**
 
-- The competition is structured into **four sequential phases**
-- **Passing a phase is mandatory** to enter the next
-- Failure at any phase **terminates progression**
-- There is no automatic continuation, extension, or appeal
+This execution plan is fully aligned—in tone, scope, and intent—with the following **five official Figshare reference documents**:
 
-This roadmap exists to **filter capability**, not to motivate participation.
+- **Sal-Meter System Overview v1.0**  
+  https://doi.org/10.6084/m9.figshare.31275067
 
----
+- **Sal-Meter Open Competition – Technical & Governance Snapshot v2.0**  
+  https://doi.org/10.6084/m9.figshare.31281835
 
-## Phase 0 — Eligibility and Alignment Check
+- **PI Quick Decision Pack — Sal-Meter Open Competition**  
+  https://doi.org/10.6084/m9.figshare.31287268
 
-**Purpose:**  
-Determine whether a team should participate at all.
+- **CAIS Architecture & Sal-Meter Technical Snapshot v1.0**  
+  https://doi.org/10.6084/m9.figshare.31287529
 
-**Status:**  
-Pre-entry condition. No submission, no evaluation.
-
-**Key Requirements:**
-
-- Full understanding of all canonical documents
-- Internal confirmation of role coverage and feasibility
-- Acceptance of governance, IP, and validation boundaries
-
-Teams unable to self-confirm alignment should default to **Track C**.
-
-No feedback is provided at this stage.
+- **CAIS Aptamer G-Iodine – Minimal Kernel Diagram v1.0**  
+  https://doi.org/10.6084/m9.figshare.31281836
 
 ---
 
-## Phase 1 — Conceptual and Structural Evaluation
+## Phase 0 — Baseline Fixation and Participation Preparation  
+**Timing:** Approximately months 0–3 after program launch  
+**Character:** Definition fixation · orientation
 
-**Purpose:**  
-Evaluate whether the proposed work is **structurally compatible** with Sal-Meter and CAIS.
+### Objective
+- Permanently fix *what is being built* and *what is being tested*
+- Eliminate interpretive ambiguity so that participants can focus purely on implementation and experimentation
 
-**What is evaluated:**
+### Core Activities
+1. Final fixation of canonical boundaries  
+   - Sal-Meter Canonical Definition v1.0  
+     https://doi.org/10.5281/zenodo.18452075  
+   - Sal-Meter Negative Definition v1.0  
+     https://doi.org/10.5281/zenodo.18452694  
+   - CAIS Compliance Boundary v1.0  
 
-- Conceptual coherence with CAIS definitions
-- Proper scoping and modularity
-- Technical realism of the proposal
-- Role coverage and execution capacity
+2. Consolidation of non-canonical technical helper materials  
+   - CAIS Architecture & Sal-Meter Technical Snapshot v1.0  
+     https://doi.org/10.6084/m9.figshare.31287529
 
-**What is NOT evaluated:**
+3. Preparation of public participation infrastructure  
+   - https://github.com/salpida-foundation/sal-meter-competition  
+   - https://github.com/salpida-foundation/sal-meter-competition-kr
 
-- Novelty claims alone
-- Prior reputation
-- Institutional size or prestige
+4. Clarification of SICS oversight and independent validation roles  
+5. International research outreach and formal program announcement
 
-**Outcome Options:**
-
-- **Pass:** Eligible to proceed to Phase 2  
-- **Fail:** Progression ends  
-- **Redirect:** Recommended downgrade to Track C or narrower scope
-
-Passing Phase 1 does **not** imply future success.
-
----
-
-## Phase 2 — Prototype Development and Internal Validation
-
-**Purpose:**  
-Demonstrate **actual execution capability**, not intent.
-
-**Required Deliverables:**
-
-- Functional prototype or component (track-dependent)
-- Reproducible data outputs
-- Documented methodology
-- Clear CAIS alignment explanation
-
-**Key Evaluation Criteria:**
-
-- Functional completeness
-- Signal stability and repeatability
-- Transparency of implementation
-- Internal validation rigor
-
-**Common Failure Causes:**
-
-- Over-scoped designs
-- Non-reproducible results
-- CAIS misinterpretation
-- Dependency on undefined future work
-
-Phase 2 failure ends progression.
+### Meaning of This Phase
+- No performance or deliverable requirements  
+- A decision window for prospective participants  
+- The evaluation logic follows the **PI Quick Decision Pack**  
+  https://doi.org/10.6084/m9.figshare.31287268
 
 ---
 
-## Phase 3 — Independent Validation (CRO)
+## Phase 1 — Team Entry and Track Structuring  
+**Timing:** Approximately months 3–6 after launch  
+**Character:** Participant confirmation · role differentiation
 
-**Purpose:**  
-Verify that results hold **outside the originating team**.
+### Objective
+- Form multiple independent experimental cohorts rather than a single winner pathway  
+- Enable diverse technical approaches to address the same measurement question concurrently
 
-**Validation Scope:**
+### Participation Tracks
+- **Track A** — Full CAIS-level system implementations  
+- **Track B** — Partial modules, sensors, signal pipelines, or subsystems  
+- **Track C** — Independent exploratory, theoretical, or open experimental work
 
-- Execution of predefined validation protocols
-- Measurement repeatability
-- Data integrity and traceability
+### Operating Principles
+- Selection is not based on competitive ranking  
+- The only criterion is whether a team can responsibly execute a real implementation  
+- Track C remains continuously open throughout the program
 
-**Important Constraints:**
+### Motivation Structure
+- Entry immediately places teams within an official comparative experiment set  
+- Failure, boundary results, and partial success all retain scientific value
 
-- CROs do not reinterpret results
-- CROs do not certify devices
-- CROs do not modify protocols
-
-Only **measurement execution** is validated.
-
-Failure at this stage ends progression permanently.
-
----
-
-## Phase 4 — Canonical Recognition and Publication
-
-**Purpose:**  
-Acknowledge validated contributions within the open standard ecosystem.
-
-**What this phase provides:**
-
-- Public recognition of compliant implementation
-- Inclusion in open repositories
-- Citation eligibility
-
-**What this phase does NOT provide:**
-
-- Certification
-- Commercial endorsement
-- Regulatory approval
-- Exclusive rights
-
-Recognition reflects **compliance**, not superiority.
+Reference:  
+Sal-Meter Open Competition – Technical & Governance Snapshot v2.0  
+https://doi.org/10.6084/m9.figshare.31281835
 
 ---
 
-## Non-Negotiable Progression Rules
+## Phase 2 — Development and Experimental Exploration  
+**Timing:** Approximately months 6–15 after launch  
+**Character:** Exploratory build · experimental validation
 
-- No phase skipping
-- No retroactive fixes
-- No appeals on scoring outcomes
-- No obligation to advance any team
+### Objective
+- Attempt working implementations within the CAIS framework  
+- Explicitly identify feasible ranges, failure points, and structural limits
 
-This structure is designed to **self-select serious contributors**.
+### Track A
+- Initial architecture → sensor and signal integration → iterative testing  
+- Small internal test groups permitted  
+- Structural coherence prioritized over polish or completeness
 
----
+### Track B
+- Reusable modules, components, or algorithms  
+- Emphasis on interoperability and comparative reuse
 
-## Expected Timeline (Indicative Only)
+### Track C
+- Open publication of code, experimental notes, and conceptual trials  
+- Seminars, working documents, and informal reports  
+- Journal submission is optional, not required
 
-| Phase | Typical Duration | Notes |
-|------|------------------|-------|
-| Phase 0 | Self-paced | No review |
-| Phase 1 | 4–8 weeks | Proposal-level filtering |
-| Phase 2 | 6–9 months | Execution-dependent |
-| Phase 3 | 3–6 months | CRO scheduling dependent |
-| Phase 4 | Post-validation | Publication only |
+References:
+- Sal-Meter System Overview v1.0  
+  https://doi.org/10.6084/m9.figshare.31275067  
+- CAIS Aptamer G-Iodine – Minimal Kernel Diagram v1.0  
+  https://doi.org/10.6084/m9.figshare.31281836
 
-Timelines are indicative.  
-Progression depends on **performance, not time**.
-
----
-
-## Final Guidance
-
-If your work:
-
-- Requires guaranteed continuity  
-- Depends on institutional backing  
-- Assumes funding-driven success  
-
-This roadmap is not compatible.
-
-If your team can operate under **clear constraints, open standards, and binary evaluation**, progression is possible.
+### Core Message
+- This phase asks participants to **attempt**, not to prove  
+- No assumption of success  
+- Successful outcomes, if achieved, carry substantial academic impact
 
 ---
 
-## References
+## Phase 3 — Independent Validation and Comparative Review  
+**Timing:** Approximately months 15–21 after launch  
+**Character:** Third-party validation · open comparison
 
-- [Technical Details](./01_technical_details.md)  
-- [Team Composition Guide](./03_team_composition.md)  
-- [Application Guide](./05_application_guide_en.md)  
-- [Extended FAQ](./04_faq_extended_en.md)
-- CAIS Architecture v1.0: https://doi.org/10.5281/zenodo.18160387
-- CAIS Prototype Roadmap v1.0: https://doi.org/10.5281/zenodo.18161872
+### Objective
+- Subject selected implementations to independent, reproducible verification  
+- Compare differing technical strategies under shared constraints
+
+### Validation Outline
+- Limited participant cohorts  
+- Blind or masked measurement conditions  
+- Only the minimum statistical criteria required by CAIS are applied
+
+### Output Handling
+- Data and methods publicly released  
+- Registration on OSF and open repositories  
+- Journal submission encouraged but not mandatory
+
+### Governing Principle
+- Positive, partial, and negative outcomes are all formally recorded  
+- Demonstrating limits is considered a valid scientific contribution
+
+---
+
+## Phase 4 — Optional Expansion and Follow-On Pathways  
+**Timing:** After completion of Phase 3  
+**Character:** Voluntary extension
+
+### Purpose
+- Explore next steps only where reproducibility has been demonstrated
+
+### Possible Directions
+- Multi-institution replication studies  
+- Research-only or non-clinical regulatory exploration  
+- Transition into longer-term programs or independent initiatives
+
+### Explicit Boundary
+- Phase 4 participation is optional  
+- All standardization, regulatory, and institutional responsibilities remain with **SICS**  
+- Participants remain focused on research, not compliance management
+
+---
+
+## Program Character Statement
+
+- This is **not** a prize-driven competition  
+- It **is** a rare opportunity to define the experimental boundary of a new measurement domain  
+- Success is not assumed, but  
+  successful validation establishes a reference baseline for the field  
+- Failure and boundary results are treated as legitimate scientific outputs
+
 ---
 
 **License:** CC BY-SA 4.0  
-**Last Updated:** February 3, 2026
-
+**Last updated:** 2026-02-03

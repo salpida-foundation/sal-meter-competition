@@ -59,6 +59,34 @@ This repository provides working markdown mirrors, discussions, and coordination
 
 ---
 
+## Minimal Kernel (M0) — Aptamer G-Iodine
+
+This diagram defines the **Minimal Kernel (M0)** of the CAIS stack:
+the Aptamer G-Iodine molecular Layer-0 core responsible for
+signal gating prior to any interpretation, indexing, or inference.
+
+The M0 kernel is not an application, device, or interpretation layer.
+It exists solely as a **non-therapeutic signal interface** at the boundary
+between biochemical state and measurable CAIS signals.
+
+**CAIS Aptamer G-Iodine — Minimal Kernel Diagram v1.0**  
+https://doi.org/10.6084/m9.figshare.31287763
+
+---
+
+## CAIS Architecture & Sal-Meter Technical Snapshot v1.0
+
+This document specifies the **system-level architecture** of CAIS-compatible
+Sal-Meter implementations, including hardware boundaries, signal pathways,
+and integration constraints required for reproducible development.
+
+It serves as the **technical bridge** between the Minimal Kernel (M0)
+and full system implementations.
+
+**CAIS Architecture & Sal-Meter Technical Snapshot v1.0**  
+https://doi.org/10.6084/m9.figshare.31287529
+
+
 ## What This Competition Is
 
 - An **international open research competition**

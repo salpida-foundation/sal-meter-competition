@@ -1,235 +1,240 @@
-# Application Guide  
-## Sal-Meter Open Competition
-
-This document describes **how to apply** to the Sal-Meter Open Competition.
-
-It is not a recruitment brochure.  
-It is a procedural guide for teams that have already determined that participation
-is appropriate for their current research stage.
-
-For decision-making support, refer first to:
-
-**[PI Quick Decision Pack (2 pages)](./PI_Quick_Decision_Pack.md)**
-
-That document is designed to support a PI-level Go / No-Go decision and may be
-shared internally without modification.
+# Application Guide: How to Participate in the Sal-Meter Open Competition
 
 ---
 
-## Purpose of This Guide
+## About This Document (Please Read First)
 
-This guide exists to:
+This document is a **practical application guide** for teams and individuals  
+who have **already decided to explore participation** in the Sal-Meter Open Competition.
 
-- Clarify what materials are expected in an application
-- Reduce ambiguity in evaluation expectations
-- Prevent misalignment between team readiness and track selection
-- Avoid unnecessary submission effort for teams not yet prepared
+- This is **not** a document for deciding whether to participate.
+- It explains **how to prepare and how to submit**, not whether you qualify.
+- This document is **non-canonical** and defines **no authority, standards, or rights**.
 
-It does **not** guarantee acceptance, priority, or funding.
-
----
-
-## Overview of Participation Flow
-
-Participation proceeds in three procedural stages:
-
-1. **Pre-Application Review**  
-   Familiarization with canonical constraints and internal feasibility assessment
-
-2. **Application Package Preparation**  
-   Assembly of required documents describing team, scope, and approach
-
-3. **Submission**  
-   Delivery of materials for independent review
-
-There is no advantage to speed.  
-Completeness and internal coherence matter more than timing.
+All technical, legal, and interpretive authority resides **exclusively** in the  
+DOI-registered Canonical documents listed below.
 
 ---
 
-## Stage 1: Pre-Application Review
+## Canonical Reference Documents (Authoritative)
 
-### 1. Canonical Document Review
+- **Sal-Meter Canonical Definition v1.0**  
+  https://doi.org/10.5281/zenodo.18452075
 
-All applicants are expected to be familiar with the following
-**canonical, DOI-registered documents**:
+- **CAIS Compliance Boundary v1.0 (Non-Derogable Standard)**  
+  https://doi.org/10.5281/zenodo.18452269
 
-| Document | Role |
-|---------|------|
-| [Sal-Meter Canonical Definition v1.0](https://doi.org/10.5281/zenodo.18452075) | Defines what qualifies as a Sal-Meter |
-| [CAIS Compliance Boundary v1.0](https://doi.org/10.5281/zenodo.18452269) | Defines mandatory technical and structural constraints |
-| [Competition Charter v1.0](https://doi.org/10.5281/zenodo.18452453) | Defines governance, evaluation, and participation rules |
-| [Sal-Meter Negative Definition v1.0](https://doi.org/10.5281/zenodo.18452694) | Defines what is explicitly excluded |
+- **Sal-Meter Open Competition Charter v1.0**  
+  https://doi.org/10.5281/zenodo.18452453
 
+- **Sal-Meter Negative Definition v1.0**  
+  https://doi.org/10.5281/zenodo.18452694
 
-These documents fix the interpretive boundaries of the competition.
-Applications that contradict them cannot be evaluated.
-
-Track C participants may treat these as reference material.  
-Track A and B participants are expected to align explicitly.
+Nothing in this guide replaces, revises, or overrides these documents.
 
 ---
 
-### 2. Internal Readiness Check
+## The Nature of This Competition
 
-Before preparing materials, teams should confirm internally:
+The Sal-Meter Open Competition is **not a winner-takes-all contest**.
 
-- The proposed contribution is **modular and bounded**
-- The scope does not rely on undefined future hiring or funding
-- At least one team member can act as a stable technical point of contact
-- Open standards and non-exclusive core architecture are acceptable
+It is designed to:
 
-If these conditions are not met, Track C participation is usually more appropriate.
+- Prevent premature standard monopolization
+- Avoid single-path interpretation lock-in
+- Enable multiple independent approaches to be tested in parallel
 
----
+Participation outcomes are considered meaningful even if they result in:
 
-## Stage 2: Application Package
+- Partial validation or limitation discovery
+- Negative or null results with clear documentation
+- Foundational data for future research
+- Transferable insight for other teams or future phases
 
-Applications are evaluated as a **package**, not as isolated documents.
-
-### Required Components
-
-#### A. Team Overview (1–2 pages)
-
-Include:
-
-- Team name
-- Current team size and roles
-- Institutional or organizational context (if any)
-- Relevant prior work (publications, systems, open-source, or prototypes)
-- Motivation for participation (technical, not promotional)
-- Primary contact person
-
-The goal is clarity, not persuasion.
+This is a **research participation framework**, not a ranking exercise.
 
 ---
 
-#### B. Team Member Profiles (1–2 pages per person)
+## Overall Participation Flow
 
-Each profile should include:
+Participation typically follows **three broad stages**:
 
-- Name and current role
-- Educational background
-- Relevant experience
-- Primary technical competencies
-- Selected prior outputs (papers, systems, repositories)
+1. **Pre-Application Understanding**  
+   Reading canonical documents and internal discussion
 
-Length and formatting consistency are preferred over detail density.
+2. **Lightweight Application Package**  
+   A declaration of how you intend to contribute
 
----
+3. **Submission & Review**  
+   Review conducted with sufficient time and no speed pressure
 
-#### C. Technical Contribution Description (2–3 pages)
-
-Describe **what you intend to build or contribute**, not what the project represents
-philosophically.
-
-Track-specific focus:
-
-**Track A**
-- System-level architecture
-- Integration strategy across sensor, signal, and computation layers
-- Validation approach within CAIS constraints
-- Anticipated technical risks and mitigation
-
-**Track B**
-- Clearly defined component or module
-- Interfaces to the broader CAIS architecture
-- Expected outputs and reusability
-
-**Track C**
-- Area of exploration or contribution
-- Expected artifacts (code, documentation, analysis, prototypes)
-- Approximate time horizon
-
-Claims should be testable.  
-Speculative language should be avoided.
+There is **no fixed competition tempo**.
 
 ---
 
-#### D. Resource Statement (Track A only)
+## Stage 1: Pre-Application Understanding
 
-Track A teams should include a **high-level resource statement** indicating that:
+### 1-1. Canonical Document Familiarity
 
-- The team can sustain the proposed scope through development and validation
-- Dependencies and constraints are understood
-- Participation does not rely on undefined future commitments
+All teams should be aligned on the following principles:
 
-Detailed financial breakdowns are not required.
-Exact cost figures are not used as evaluation criteria.
+- Sal-Meter is **not** a therapeutic or diagnostic device
+- Layer 0 is a **non-therapeutic signal interface**
+- VCE / CRI / CFI indices are defined strictly by CAIS
+- Interpretive authority lies in Canonical definitions, not individual teams
+
+This applies equally to Track A, B, and C.  
+Only the depth of engagement differs.
 
 ---
 
-#### E. Optional Supporting Materials
+## Stage 2: Preparing the Application Package
 
-May include:
+### Core Design Principles (Important)
 
-- Selected publications or preprints
-- Public repositories
-- Prior systems or datasets
-- Letters of institutional support (optional)
+- **Perfection is not required**
+- **Full technical disclosure is not required**
+- **Early-stage or exploratory ideas are welcome**
+- It is acceptable to state:
+  “We are strong in this area and seek collaboration in others.”
 
-Optional materials do not compensate for gaps in required components.
+This competition is closer to **research partner discovery**  
+than to a conventional selection exam.
+
+---
+
+### A) Team Overview (Approx. 1 Page)
+
+Suggested elements:
+
+- Team name (working name acceptable)
+- Approximate team size (e.g., 1–3, 3–6, etc.)
+- Intended track(s): A / B / C (multiple allowed)
+- Brief description of intended contribution
+
+Example statements:
+
+> We have strong experience in signal processing,  
+> but are seeking collaboration on molecular interfaces.
+
+> We aim to reinterpret an existing sensor approach within CAIS constraints.
+
+---
+
+### B) Team Member Summary (Lightweight)
+
+For each member, brief information is sufficient:
+
+- Name or identifier
+- Intended role (e.g., signal processing, hardware, experiment design)
+- 2–3 lines of relevant experience
+
+No fixed career-length or credential thresholds apply.
+
+---
+
+### C) Technical Concept (Optional, Recommended 1–2 Pages)
+
+A **directional proposal** is sufficient.
+
+Possible elements:
+
+- CAIS layer(s) you wish to explore
+- Hypothesis or technical approach
+- Anticipated challenges
+- Current status (idea / pilot / existing work)
+
+For Track A or B teams,  
+more detail may support deeper follow-up discussions,  
+but it is **not mandatory**.
+
+---
+
+### D) Research Support & Funding (Clarification)
+
+This program is **not structured as full-cost research funding**.
+
+Support may take forms such as:
+
+- Initial participation support
+- Milestone-based evaluation and follow-up support
+- Exceptional-case support for uniquely valuable contributions
+
+Key principles:
+
+- Support conditions may differ by team and phase
+- Funding details are **not disclosed between teams**
+- This is **not a prize-based competition**
 
 ---
 
 ## Stage 3: Submission
 
-### Submission Method
+### How to Submit
 
-Applications are submitted via email.
+Please submit by email.
 
-**Recipient:**  
+**Recipient**  
 contact@salpida.foundation
 
-**Subject format:**  
-`[Track A / B / C] Sal-Meter Open Competition – Team Name`
+**Subject Line Example**  
+[Sal-Meter Application] Team Name / Track B
 
-### Submission Notes
+**Email Body Example**
 
-- Use clear, consistent file naming
-- PDF format is preferred
-- English is required for all materials
-- Only complete submissions are reviewed
+We would like to be considered for participation in the
+Sal-Meter Open Competition.
 
-If revisions are necessary before review, teams may resubmit with a clear version note.
+Team name:
+Intended track(s):
+Brief description:
+Contact information:
 
----
+Attached: Team overview and brief concept note.
 
-## After Submission
 
-- Receipt confirmation is provided
-- Review is conducted by independent evaluators
-- Additional clarification may be requested if needed
-
-Silence should not be interpreted as rejection or approval.
-Evaluation proceeds asynchronously.
+Language, format, and length are flexible.
 
 ---
 
-## When Not to Apply
+### Review & Response
 
-This competition may not be appropriate if:
+- Review may take **adequate time** depending on submission volume
+- Teams are reviewed comparatively, not sequentially
+- Immediate responses are not assumed or expected
 
-- Immediate clinical deployment is required
-- Proprietary enclosure of core architecture is expected
-- The work depends on unresolved regulatory positioning
-- Only short-term, low-uncertainty outcomes are acceptable
-
-Participation is voluntary and non-exclusive.
+This pacing is **intentional**,  
+to avoid artificial pressure on both participants and organizers.
 
 ---
 
-## Reference Documents
+## Frequently Asked (Brief)
 
-- [Technical Details: How the Sal-Meter Works](./01_technical_details.md)
-- [Development Roadmap: 4-Phase Detailed Plan](./02_phase_roadmap.md)
-- [Team Composition Guide](./03_team_composition.md)
-- [Frequently Asked Questions](./04_faq_extended_en.md)
+**Q. Is there a penalty for failure or negative results?**  
+A. No. Clearly documented negative results are considered valuable contributions.
+
+**Q. How is idea confidentiality handled?**  
+A. Submit only what you are comfortable sharing. Minimal disclosure is acceptable.
+
+**Q. Can individuals or very small teams participate?**  
+A. Yes. This applies to Track C and may also apply to Track A/B.
+
+---
+
+## Related Documents
+
+- Technical structure overview  
+  ./01_technical_details.md
+
+- Phase roadmap  
+  ./02_phase_roadmap.md
+
+- Extended FAQ  
+  ./04_faq_extended.md
 
 ---
 
-**License:** CC BY-SA 4.0  
-**Document role:** Non-canonical procedural guide  
-**Last updated:** February 2026
+License: CC BY-SA 4.0  
+Last updated: February 2026
 
----
+

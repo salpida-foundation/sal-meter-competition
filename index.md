@@ -1,73 +1,84 @@
 ⚠️ **Non-canonical index**
 
 All authority resides exclusively in **DOI-registered canonical records**.  
-Nothing in this folder defines standards, compliance, certification, or authority.
+Nothing in this repository defines standards, compliance, certification, or authority.
 
-These documents exist **only** to support orientation and voluntary participation.
+This index exists **only** to support orientation and voluntary participation.
 
 ---
 
-## For Principal Investigators (30-minute filter)
+## What This Page Is For
 
-If you need to decide quickly whether this competition fits your lab,
-do **not** start with the full documentation.
+This page is a **routing index**, not documentation.
+
+If you are here, your next step should be **one of the following**:
+- Decide whether this competition fits your lab
+- Verify canonical authority and boundaries
+- Identify a minimal, non-obligatory contribution
+- Or leave without participation
+
+All outcomes are valid.
+
+---
+
+## For Principal Investigators (30-minute decision)
+
+If you need to decide quickly whether this competition fits your lab or research agenda,
+**do not start with the full README**.
 
 Begin here:
 
-- **[PI Quick Decision Pack (2 pages)](docs/PI_Quick_Decision_Pack.md)**  
-- Designed for a PI-level **go / no-go decision within 30 minutes**
-- If the answer is “maybe”, it can be shared directly in a lab meeting as-is
+- **PI Quick Decision Pack (2 pages)**  
+  docs/PI_Quick_Decision_Pack.md  
 
-If this document does not clearly fit your research structure,  
-**Track C is the rational default — or do not proceed.**
-
----
-
-# Sal-Meter Competition — Documentation Index
-
-This folder contains **non-canonical explanatory materials**.
-
-They clarify intent, structure, and participation mechanics —  
-they do **not** define what a Sal-Meter is.
-
-### Recommended reading order (self-filtering sequence)
-
-1. **00_philosophy_foundation.md**  
-   Why this competition exists — and why it avoids guarantees
-
-2. **01_technical_details.md**  
-   System-level architecture and measurement logic (non-authoritative)
-
-3. **02_phase_roadmap_en.md**  
-   Phase structure and pass/fail progression (no promises, no timelines guarantees)
-
-4. **03_team_composition.md**  
-   Who is realistically capable of each track — and who is not
-
-5. **04_faq_extended_en.md**  
-   Common misunderstandings, clarified early to prevent misalignment
-
-6. **05_application_guide_en.md**  
-   How to apply *after* self-qualification is complete
+Designed to enable a **PI-level go / no-go decision within 30 minutes**.  
+If the answer is “maybe”, it can be shared directly in a lab meeting as-is.
 
 ---
 
-## Canonical Authority (Non-Negotiable)
+## Canonical Authority (Mandatory Reading)
 
-All standards, definitions, and compliance boundaries are fixed in
-**DOI-registered canonical records only**.
+All interpretations, implementations, and claims are governed exclusively by the
+following **DOI-registered canonical documents**:
 
-If any document in this folder appears to conflict with a canonical record,
-**the canonical record always prevails**.
+- Sal-Meter Canonical Definition v1.0  
+  https://doi.org/10.5281/zenodo.18452075
 
-Canonical index:
-https://github.com/salpida-foundation/salpida-canonical
+- CAIS Compliance Boundary v1.0  
+  https://doi.org/10.5281/zenodo.18452269
+
+- Sal-Meter Open Competition Charter v1.0  
+  https://doi.org/10.5281/zenodo.18452453
+
+- Sal-Meter Negative Definition v1.0  
+  https://doi.org/10.5281/zenodo.18452694
+
+If you have not read these, **do not proceed**.
 
 ---
 
-If you are comfortable with uncertainty, fixed rules, and open outcomes,
-begin with Track C.
+## If You Want to Participate Without Commitment
 
-If you require certainty, endorsement, or institutional guarantees,
-this competition is not a suitable fit.
+You may participate at any time via **Track C (open community)**:
+
+- No funding dependency
+- No escalation requirement
+- Modular, partial contributions allowed
+- Papers, prototypes, documentation, or code
+
+Engage via GitHub Discussions when ready.
+
+---
+
+## Full Competition Overview
+
+For the complete non-canonical overview, see:
+
+- README.md  
+  ./README.md
+
+Remember:  
+This repository is an **index and coordination layer only**.  
+Authority is fixed elsewhere and does not drift.
+
 

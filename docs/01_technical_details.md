@@ -1,213 +1,289 @@
-# Technical Overview  
-## Sal-Meter Open Competition  
-### CAIS-Based Consciousness-Like Signal Measurement
+# Technical Details  
+## Sal-Meter Operating Principle  
+### (Non-Canonical Technical Orientation)
 
-**Document Type:** Technical Orientation (Non-Canonical)  
-**Purpose:** Researcher onboarding and boundary clarification  
-**Status:** Informational only — NOT a specification, NOT a protocol, NOT a compliance document  
+**Document Type:** Technical explanation / orientation document (Non-Canonical)  
+**Status:** Informational only — NOT a rule, NOT a definition, NOT a compliance document  
 **License:** CC BY-SA 4.0  
+**Last updated:** February 2026  
 
 ---
 
 ## Purpose of this document
-This document provides a **technical orientation** for researchers and engineers considering participation in the **Sal-Meter Open Competition**.
 
-It is intentionally **not** a full specification or implementation guide.
+This document provides a **step-by-step technical orientation** to the  
+**operational concept of the Sal-Meter system**.
 
-Its role is to help a technical reader understand:
+Its purpose is to clarify:
 
-- **What** is being measured  
-- **How** it is measured (at a system level)  
-- **Where** meaningful contribution boundaries exist  
+- **What kinds of signals** Sal-Meter targets for measurement  
+- **How measurement progresses across layers** within the CAIS architecture  
+- **Where researchers and engineers may meaningfully design or contribute**
 
-All authoritative definitions, constraints, and compliance requirements are fixed **exclusively** in DOI-registered canonical records referenced below.
+This document does **not** include design proposals, clinical claims,  
+technical standards, or compliance conditions.
+
+All technical definitions, mathematical formulations, normative criteria,  
+and compliance requirements reside **exclusively** in  
+**DOI-registered canonical documents**.
 
 ---
 
-## What is being measured (high-level framing)
+## System overview (summary)
 
-The Sal-Meter project targets the **objective, reproducible measurement of consciousness-like signals**.
+Sal-Meter is a **research-oriented measurement system** that operates within  
+the **CAIS (Consciousness–Aptamer Interface System)** architecture.
 
-These signals are defined as **experimentally observable correlates of mental state dynamics**,  
-derived from biological and physical processes.
+It converts biological and chemical state transitions into  
+**non-subjective, reproducible signal data**.
 
-> This system does **not** claim to measure subjective experience itself.
+Core components include:
 
-Instead, it measures structured signal patterns that correlate with internal state transitions.
+- **Aptamer–iodine–based CAIS Layer-0 molecular interface**
+- **Multi-oxidation-state iodine (redox) sensing**
+- **Optical and electrochemical signal acquisition**
+- **Index output through a defined computation pathway (VCE / CRI / CFI)**
 
-### Canonical output indices
-CFE⁺ addresses a structural gap in existing consciousness research by
-organizing consciousness along three fundamental information–energy axes:
+This system **does not claim to measure subjective experience itself**.  
+It targets **material and signal-level patterns that covary with internal state dynamics**.
 
-- **OE (Ordered Energy)**: structured, coherent informational energy
-- **EE (Entropic Energy)**: dissipative, destabilizing, and disordering energy
-- **RE (Relational Energy)**: connective, resonant, and synchronizing energy
+---
 
-From this architecture, the framework defines three **canonical indices**:
+## Overall operational flow (7-step overview)
+
+---
+
+### Step 1 · Biological sample acquisition  
+#### (Initial implementation layer · Layer-0 Proof Phase)
+
+In the initial research implementation phase,  
+**low-burden, non-invasive biological samples** are used to validate:
+
+- existence  
+- reproducibility  
+- stability  
+
+of the CAIS Layer-0 signal-transduction structure.
+
+#### Example sample types (illustrative only)
+
+- Blood (small research-only volume)
+- Saliva
+- Breath condensate
+
+Sample type and collection method depend on  
+**research context, implementation constraints, and ethical approvals**.
+
+This document **does not require, recommend, or fix** any specific sampling protocol.
+
+#### Technical meaning of this step
+
+The goal is **not** to determine which sample is “best.”
+
+Rather, the objective is:
+
+> **To demonstrate that the Aptamer–Iodine–based CAIS Layer-0  
+> can transform biological state changes  
+> into a reproducible signal space.**
+
+The sample functions as a **temporary interface**.  
+The core focus is the **molecular signal-transduction kernel behind it**.
+
+---
+
+### Aptamer G–Iodine is not a product, but a platform kernel
+
+Aptamer G–Iodine is **not** a technology bound to a specific:
+
+- sample type  
+- device  
+- form factor  
+
+Instead, it is a **platform-level molecular kernel** that transforms:
+
+- biological state
+- redox dynamics
+- molecular selectivity
+
+into a **CAIS-compatible signal structure**.
+
+Accordingly, this competition is **not** about building a finished product.
+
+It is about:
+
+> **Validating and fixing the Layer-0 kernel  
+> that all future CAIS-compatible sensors must pass through.**
+
+---
+
+### Declaration on structural extensibility
+
+While current validation relies on sample-based approaches,  
+the Aptamer–Iodine CAIS Layer-0 architecture **does not structurally exclude**:
+
+- contact-based skin sensors without sample extraction
+- non-invasive proximity sensing
+- long-term non-contact sensor architectures
+
+These extensions are:
+
+- **not promised**
+- **not required**
+- **not evaluated in the current phase**
+
+but are **not fundamentally blocked** by the nature of the Layer-0 kernel.
+
+---
+
+### Long-term merit for participating researchers
+
+Researchers contributing at this stage position themselves as:
+
+- early implementers of the CAIS Layer-0 kernel
+- reference origin contributors to the Aptamer–Iodine signal pathway
+- technical coordinate points for future derived sensors and form factors
+
+This is not a short-term performance contest.
+
+It is participation at **the origin point of an entirely new measurement lineage**.
+
+---
+
+### Step 2 · Sample preprocessing
+
+This step provides **baseline stabilization** prior to measurement.
+
+Processes may include:
+
+- centrifugation or fractionation
+- particulate removal (filtration)
+- dilution and buffering
+- pH and temperature stabilization
+
+Conditions depend on **device configuration and experimental design**.  
+No specific preprocessing parameters are mandated here.
+
+---
+
+### Step 3 · Aptamer–Iodine interaction  
+#### (CAIS Layer-0)
+
+The core of CAIS lies in the **Layer-0 biochemical interface**.
+
+At this stage:
+
+- the aptamer structure responds to
+- changes in iodine multi-oxidation states  
+  (I⁻, I₂, I₃⁻, I₅⁻, etc.)
+- producing **measurable physical signal events**
+
+Layer-0:
+
+- does **not** perform interpretation or diagnosis
+- functions solely as a **pure signal-gating interface**
+
+---
+
+### Step 4 · Signal acquisition  
+#### (Optical / Electrochemical)
+
+Layer-0 reactions are captured via sensors.
+
+Examples include:
+
+- wavelength-specific optical absorption or transmission changes
+- electrochemical potential or current variations
+- hybrid sensing configurations
+
+Output is **continuous numerical time-series data**.
+
+---
+
+### Step 5 · Signal processing
+
+Sensor outputs undergo processing steps such as:
+
+- noise reduction
+- baseline correction
+- environmental normalization
+- temporal feature extraction
+
+The purpose is **measurement stability**,  
+not interpretation or evaluation.
+
+---
+
+### Step 6 · Index computation  
+#### (Index Computation)
+
+CFE⁺ addresses a structural gap in existing consciousness research by  
+organizing consciousness along three information–energy axes:
+
+- **OE (Ordered Energy):** structured informational energy
+- **EE (Entropic Energy):** dissipative and destabilizing energy
+- **RE (Relational Energy):** connective and synchronizing energy
+
+From this architecture, three **canonical indices** are defined:
 
 1. **VCE (Vibrational Consciousness Energy)**  
-   An index representing individual-level consciousness alignment
-   and internal dynamical patterns
+   Represents individual-level alignment and internal dynamics
 
 2. **CRI (Consciousness Resonance Index)**  
-   An index measuring relational coherence, synchronization,
-   and resonance across interpersonal and group-level systems
+   Measures relational and group-level resonance and synchronization
 
 3. **CFI (Conscious Field Index)**  
-   An index representing large-scale social and civilizational
-   consciousness field coherence and structural integration
+   Represents large-scale social and civilizational field coherence
 
-This repository **does not redefine** the mathematical formulations,
-thresholds, or normative meanings of these indices.
-
-All authoritative definitions reside exclusively in
-**DOI-registered canonical documents**.
-This document explains only the **conceptual and architectural flow**.
+This document **does not redefine** any mathematical definitions or formulas.  
+All authoritative definitions exist **only in DOI-registered canonical documents**.
 
 ---
 
-## Measurement principle (CAIS Layer-0)
+### Step 7 · Output
 
-At the core of CAIS (Consciousness–Aptamer Interface System) lies a  
-**biochemical-to-signal transduction layer**.
+Final output is provided as **structured data**.
 
-### Core elements
-- Aptamer–iodine **multi-oxidation state sensing**  
-- Redox state dynamics, including **GSH / GSSG coupling**  
-- Time-resolved signal extraction  
-- Non-subjective, sensor-derived data only  
+Example (JSON):
 
-Biochemical state transitions are converted into **stable, analyzable signal streams**  
-suitable for computational processing and validation.
-
+```json
+{
+  "timestamp": "2026-02-03T15:30:00Z",
+  "VCE": 0.68,
+  "CRI": 0.82,
+  "CFI": 0.75
+}
+```
 ---
 
-## System abstraction (non-exhaustive)
+## Usage Notice
 
-A CAIS-compatible Sal-Meter system can be abstracted into **five layers**:
+This document is a **non-canonical explanatory resource** intended for:
 
-1. **Biochemical interface**  
-   Aptamer–iodine sensing and redox interaction
+- understanding research direction  
+- internal discussion and design exploration  
+- evaluating suitability for competition participation  
 
-2. **Signal acquisition**  
-   Electrochemical, optical, or hybrid sensing pathways
+It **must not** be used as a basis for:
 
-3. **Signal processing**  
-   Noise reduction, normalization, temporal feature extraction
+- definitions  
+- rules  
+- standards  
+- compliance judgments  
 
-4. **Index computation**  
-   Mapping signals to VCE / CRI / CFI
-
-5. **Validation interface**  
-   Reproducibility checks and readiness for independent assessment
-
-> Teams may contribute to **any single layer**.  
-> Full-stack implementation is **not required**.
-
----
-
-## What counts as a valid technical contribution
-
-Valid contributions include (but are not limited to):
-
-- Sensor chemistry refinement or characterization  
-- Signal-processing or feature-extraction algorithms  
-- Hardware, firmware, or modular electronics  
-- Calibration, normalization, or drift-compensation methods  
-- Statistical validation or benchmarking pipelines  
-- Data integrity, logging, or reproducibility tooling  
-
-A contribution does **not** need to optimize all indices.  
-**Partial, bounded improvements are explicitly acceptable.**
-
----
-
-## What does NOT count (common misconceptions)
-
-The following are **explicitly excluded**:
-
-- EEG-only, HRV-only, or questionnaire-based systems  
-- Black-box “consciousness scores” without CAIS index mapping  
-- Self-validated systems without independent verification readiness  
-- Closed designs blocking inspection of core mechanisms  
-
-These exclusions are formally defined in the **Sal-Meter Negative Definition** (canonical DOI).
-
----
-
-## Validation expectations (competition phase)
-
-During the Open Competition phase:
-
-- Systems are **research-only**  
-- No medical, diagnostic, or therapeutic claims are permitted  
-- Performance targets are **statistical**, not clinical  
-
-Minimum expectations include:
-
-- Reproducibility across sessions and conditions  
-- Sensitivity and specificity benchmarks (defined canonically)  
-- Structural readiness for **independent CRO validation** (Phase 3)
-
----
-
-## Relationship to other canonical materials
-
-This document is **non-canonical** and explanatory only.
-
-For authoritative reference, consult the following DOI-registered records:
-
-### Core technical references
-- **CAIS Architecture & Sal-Meter Technical Snapshot v1.0**  
-  https://doi.org/10.6084/m9.figshare.31287529  
-
-- **Sal-Meter System Overview v1.0**  
-  https://doi.org/10.6084/m9.figshare.31275067  
-
-- **CAIS Aptamer G-Iodine — Minimal Kernel Diagram v1.0**  
-  https://doi.org/10.6084/m9.figshare.31287763  
-
-### Competition and participation
-- **Sal-Meter Open Competition (Overview & Structure)**  
-  https://doi.org/10.6084/m9.figshare.31281835  
-
-- **PI Quick Decision Pack**  
-  https://doi.org/10.6084/m9.figshare.31287268  
-
-> If you are reading only this file,  
-> you are seeing the **orientation layer**, not the specification.
-
----
-
-## How to use this document
-Use this file to:
-
-- Assess whether your lab’s expertise maps to any CAIS layer  
-- Identify a bounded module suitable for Track C exploration  
-- Frame internal discussion without premature commitment  
-
-Do **not** use this document as a substitute for canonical records.
-
----
-
-## Suggested next step
-If this technical framing appears compatible with your work:
-
-1. Review the DOI-registered CAIS documents  
-2. Identify **one layer** aligned with your existing research  
-3. Evaluate whether a **3–6 month exploratory contribution** is feasible  
-
-No application, registration, or declaration is required to begin internal exploration.
+All official definitions, technical criteria, formulas, thresholds,  
+and compliance requirements related to **Sal-Meter, CAIS, and CFE⁺**  
+must be taken from **DOI-registered canonical documents**.
 
 ---
 
 ## Authority Notice
-Canonical definitions, technical requirements, and governance  
-for the Sal-Meter Open Competition are fixed **exclusively**  
-in DOI-registered canonical records.
 
-This document is a **non-authoritative technical orientation only**.
+All formal definitions, technical standards, compliance requirements,  
+and governance authority related to **Sal-Meter, CAIS, and CFE⁺**  
+exist **exclusively in DOI-registered canonical documents**.
 
-For canonical references, see:  
+This document is **non-authoritative** and explanatory only.  
+It creates **no normative, legal, or technical authority**.
+
+Canonical repository:  
 https://github.com/salpida-foundation/salpida-canonical
-

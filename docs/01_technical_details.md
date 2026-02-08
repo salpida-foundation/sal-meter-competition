@@ -36,14 +36,33 @@ derived from biological and physical processes.
 Instead, it measures structured signal patterns that correlate with internal state transitions.
 
 ### Canonical output indices
-The system outputs three canonical indices:
+CFE⁺ addresses a structural gap in existing consciousness research by
+organizing consciousness along three fundamental information–energy axes:
 
-- **VCE — Vital Coherence Estimate**  
-- **CRI — Cognitive Resilience Index**  
-- **CFI — Consciousness Flux Index**
+- **OE (Ordered Energy)**: structured, coherent informational energy
+- **EE (Entropic Energy)**: dissipative, destabilizing, and disordering energy
+- **RE (Relational Energy)**: connective, resonant, and synchronizing energy
 
-Each index is mathematically and operationally defined in canonical DOI documents.  
-This repository does **not** redefine them.
+From this architecture, the framework defines three **canonical indices**:
+
+1. **VCE (Vibrational Consciousness Energy)**  
+   An index representing individual-level consciousness alignment
+   and internal dynamical patterns
+
+2. **CRI (Consciousness Resonance Index)**  
+   An index measuring relational coherence, synchronization,
+   and resonance across interpersonal and group-level systems
+
+3. **CFI (Conscious Field Index)**  
+   An index representing large-scale social and civilizational
+   consciousness field coherence and structural integration
+
+This repository **does not redefine** the mathematical formulations,
+thresholds, or normative meanings of these indices.
+
+All authoritative definitions reside exclusively in
+**DOI-registered canonical documents**.
+This document explains only the **conceptual and architectural flow**.
 
 ---
 
